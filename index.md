@@ -14,7 +14,7 @@ Here you can check the lastest updates on my projects.
 
 [soiltestcorr: Soil test correlation & calibration](https://adriancorrendo.github.io/soiltestcorr/)
 
-<img src="https://github.com/adriancorrendo/metrica/blob/main/man/figures/metrica_logo.png" width="200" height="210" />
+<img src="https://github.com/adriancorrendo/metrica/blob/master/man/figures/metrica_logo.png" width="200" height="210" />
 
 [metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/)
 
