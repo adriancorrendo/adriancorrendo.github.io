@@ -10,12 +10,13 @@ Here you can check the lastest updates on my projects.
 
 ### R-packages
 
-![Image](https://github.com/adriancorrendo/soiltestcorr/blob/main/man/figures/soiltestcorr_logo.png)
+<img src=["https://github.com/adriancorrendo/soiltestcorr/blob/main/man/figures/soiltestcorr_logo.png" width="200" height="200" />
 
 [soiltestcorr: Soil test correlation & calibration](https://adriancorrendo.github.io/soiltestcorr/)
 
-![Image](https://github.com/adriancorrendo/metrica/blob/master/man/figures/metrica_logo.png)
-[metrica: Prediction performance metrics](https://adriancorrendo.github.io/soiltestcorr/)
+<img src=["[https://github.com/adriancorrendo/soiltestcorr/blob/main/man/figures/soiltestcorr_logo.png](https://github.com/adriancorrendo/metrica/blob/master/man/figures/metrica_logo.png)" width="200" height="200" />
+
+[metrica: Prediction performance metrics](https://adriancorrendo.github.io/metrica/)
 
 ### Harvard Dataverse Repo
 
@@ -29,4 +30,4 @@ https://dataverse.harvard.edu/dataverse/adriancorrendo
 For more details see my [webpage](https://correndo1.wixsite.com/main)
 
 ### Contact me
-e-mailL: correndo@ksu.edu
+e-maill: correndo@ksu.edu
