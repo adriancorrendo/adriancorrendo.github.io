@@ -10,11 +10,11 @@ Here you can check the lastest updates on my projects.
 
 ### R-packages
 
-![Image](https://github.com/adriancorrendo/soiltestcorr/blob/main/man/figures/soiltestcorr_logo.png =x250)
+![Image](https://github.com/adriancorrendo/soiltestcorr/blob/main/man/figures/soiltestcorr_logo.png)
 
 [soiltestcorr: Soil test correlation & calibration](https://adriancorrendo.github.io/soiltestcorr/)
 
-![Image](https://github.com/adriancorrendo/metrica/blob/master/man/figures/metrica_logo.png =x250)
+![Image](https://github.com/adriancorrendo/metrica/blob/master/man/figures/metrica_logo.png)
 [metrica: Prediction performance metrics](https://adriancorrendo.github.io/soiltestcorr/)
 
 ### Harvard Dataverse Repo
