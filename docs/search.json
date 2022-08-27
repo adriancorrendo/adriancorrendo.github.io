@@ -179,14 +179,14 @@
     "href": "02-career.html",
     "title": "AdrianCorrendo",
     "section": "",
-    "text": "I am an agronomist with +10 years of experience in research and stakeholders education, underpinning the development and recommendation of the best crop management practices for productive, efficient, and environmentally safe farming systems. My passion and expertise are in cropping systems, soil fertility and crop nutrition, with a strong component of modern data analytics for the advancement of agriculture. I aim to play an active role in transdisciplinary projects that gather diverse agricultural stakeholders."
+    "text": "I am an agronomist with +10 years of experience in research and stakeholders education, underpinning the development and recommendation of the best crop management practices for productive, efficient, and environmentally safe farming systems. My passion and expertise are in cropping systems, soil fertility and crop nutrition, with a strong component of modern data analytics for the advancement of agriculture. I aim to play an active role in transdisciplinary projects that gather diverse agricultural stakeholders.\n\n\n\nPh.D., Agronomy. Kansas State University. 2021.\nMS, Soil Science. Universidad de Buenos Aires. 2018.\nBS, Agronomy. Universidad de Buenos Aires. 2011."
   },
   {
     "objectID": "01-index.html",
     "href": "01-index.html",
     "title": "Welcome",
     "section": "",
-    "text": "🌽Interests\nSustainable Farming | Crop Nutrition | Predictive Ag | Digital Solutions\nA great crop hides a whole story of questions underneath. Curiosity drives farmers, agronomists, and scientists to achieve improvements in our farming systems and communities.\n\nResearch: Dynamic future scenarios require research exploring the interactions between plant genetics (G), environment (E), and crop management (M).\nExtension: By addressing stakeholders’ concerns we visualize research gaps, we facilitate the right development and adoption of technologies, and we also enhance productivity and the resources use efficiency.\nEducation: Leaders of the farming of the future require transdisciplinary work and education that provides them the tools to efficiently utilize multiple data sources for decision-making.\n\n\n\n🖼️Pictures\nComing soon…"
+    "text": "Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. Since 2018, I live with my wife (Milagros) and our little girl (Amelie) in Manhattan, Kansas, USA.\n\n\n\n\n\n\n\nSince a child, I have developed a huge curiosity toward nature, which undoubtedly influenced my decision for Agronomy. I dedicate my career efforts to develop decision support tools that hasten the adoption of sustainable management practices for agriculture.\nMy passion and expertise are in cropping systems, soil fertility and crop nutrition, with a strong component of modern data analytics."
   },
   {
     "objectID": "03-publications.html",
@@ -313,5 +313,26 @@
     "title": "AdrianCorrendo",
     "section": "Undergraduate Research Assistant",
     "text": "Undergraduate Research Assistant\n\n2007\n IFEVA. College of Agriculture, University of Buenos Aires.\nField work assistant in ecology experimental plots. Grassland evaluation and installation of field experiment. Place: Estancia “San Claudio” Carlos Casares. Supervisors: Dr. Isabel Miranda, and Dr. Enrique J. Chaneton."
+  },
+  {
+    "objectID": "01-index.html#education",
+    "href": "01-index.html#education",
+    "title": "Welcome",
+    "section": "🎓Education",
+    "text": "🎓Education\n\nPh.D., Agronomy. Kansas State University. 2021.\nMS, Soil Science. Universidad de Buenos Aires. 2018.\nBS, Agronomy. Universidad de Buenos Aires. 2011."
+  },
+  {
+    "objectID": "01-index.html#interests",
+    "href": "01-index.html#interests",
+    "title": "Welcome",
+    "section": "🌽Interests",
+    "text": "🌽Interests\nSustainable Farming | Crop Nutrition | Data Science | Digital Solutions\nA great crop hides a whole story of questions underneath. Curiosity drives farmers, agronomists, and scientists to achieve improvements in our farming systems and communities.\n\nResearch: Dynamic future scenarios require research exploring the interactions between plant genetics (G), environment (E), and crop management (M).\nExtension: By addressing stakeholders’ concerns we visualize research gaps, we facilitate the right development and adoption of technologies, and we also enhance productivity and the resources use efficiency.\nEducation: Leaders of the farming of the future require transdisciplinary work and education that provides them the tools to efficiently utilize multiple data sources for decision-making."
+  },
+  {
+    "objectID": "01-index.html#section-1",
+    "href": "01-index.html#section-1",
+    "title": "Welcome",
+    "section": "",
+    "text": "My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. I’m married to Milagros, and we are parents of our little girl Amelie. Since a child, I have developed a huge curiosity about nature, which undoubtedly influenced my career decision.\nI got my Bachelor’s at the University of Buenos Aires, where I also obtained my Master in Soil Sciences while working in research and extension for the Southern Cone Program of the International Plant Nutrition Institute (IPNI). I proudly obtained my Ph.D. degree in Agronomy at Kansas State University. Cropping systems, with focus on soil fertility and crop nutrition, and data science are my passion and expertise within the vast agronomy-world."
   }
 ]
