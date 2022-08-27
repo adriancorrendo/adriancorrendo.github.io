@@ -12,6 +12,8 @@ title: "Contact me"
 
 ![](assets/images/github-brands.svg){width="25" height="25"} [GitHub](https://github.com/adriancorrendo)
 
+{{< ai orcid >}} ORCID
+
 {{< ai google-scholar >}} GoogleScholar
 
 {{< ai researchgate >}} ResearchGate

@@ -6,7 +6,6 @@ website:
   title: "AdrianCorrendo"
   navbar:
     background: "#4a4e69"
-    logo: "assets/images/me.png"
     left:
       - href: 01-index.qmd
         text: Home

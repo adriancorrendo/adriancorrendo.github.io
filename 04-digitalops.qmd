@@ -6,13 +6,13 @@ Welcome to my Digital Ops section! 👋
 
 Let's take a quick look to the latest updates on my digital tools projects.
 
-## R packages  ![](assets/images/R_logo.png){width="36"}
+## R packages ![](assets/images/R_logo.png){width="36"}
 
 Open-access software promoting the reproducibility of data processing and analysis
 
 [![](assets/images/soiltestcorr_logo.png){width="100" height="110"}](https://adriancorrendo.github.io/soiltestcorr/) [![](assets/images/metrica_logo.png){width="100" height="110"}](https://adriancorrendo.github.io/metrica/) [![](assets/images/xpolaris.png){width="100" height="110"}](https://github.com/cran/XPolaris)
 
-## Shinyapps  ![](assets/images/shiny.png){width="33"}
+## Shinyapps ![](assets/images/shiny.png){width="33"}
 
 Web interfaces designed to facilitate the implementation of my packages, and to translate my research into decision-support tools.
 
@@ -38,8 +38,6 @@ Data and codes publicly available
 
 Recordings sharing codes designed for gathering data from digitalized weather databases and data analysis using R
 
-+------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------+
 | [Agro-meteorological data using R software](https://www.youtube.com/watch?v=gJo5XUFtDPk) | [Regression Tress and Random Forests](https://www.youtube.com/watch?v=sE8VyX2XGII) |
-+==========================================================================================+====================================================================================+
+|------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
 | ![](assets/images/agrometR_tutorial.png){width="300" height="200"}                       | ![](assets/images/rf_tutorial.png){width="300" height="200"}                       |
-+------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------+
