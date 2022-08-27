@@ -9,7 +9,7 @@ Welcome to my website!
 ::: panel-tabset
 ## 🙋🏻Bio
 
-I was born in 1987 and raised up in Buenos Aires, Argentina. I'm married to Milagros, and we are parents of Amelie. Since a child, I developed a huge curiosity about nature, particularly biology and weather, which undoubtedly influenced my career decision. Agronomy was the perfect fit for my interests. I got my Bachelor's at the University of Buenos Aires. I also obtained my Master in Soil Sciences at the University of Buenos Aires while working in research and extension for the Southern Cone Program of the International Plant Nutrition Institute (IPNI). I proudly obtained my Ph.D. degree in Agronomy at Kansas State University in 2021. Cropping systems, with focus on soil fertility and crop nutrition, and data science are my passion and expertise within the vast agronomy-world.
+I was born in 1987 and raised up in Buenos Aires, Argentina. I'm married to Milagros, and we are parents of Amelie. Since a child, I developed a huge curiosity about nature, particularly biology and weather, which undoubtedly influenced my career decision. Agronomy was the perfect fit for my interests. I got my Bachelor's at the University of Buenos Aires, where I also obtained my Master in Soil Sciences while working in research and extension for the Southern Cone Program of the International Plant Nutrition Institute (IPNI). I proudly obtained my Ph.D. degree in Agronomy at Kansas State University. Cropping systems, with focus on soil fertility and crop nutrition, and data science are my passion and expertise within the vast agronomy-world.
 
 ## 🎓Education
 
