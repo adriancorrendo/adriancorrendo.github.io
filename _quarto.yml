@@ -4,12 +4,19 @@ project:
 
 website:
   title: "AdrianCorrendo"
-  image: assets/images/me.png
   navbar:
+    background: "#4a4e69"
+    logo: "assets/images/me.png"
     left:
-      - href: index.qmd
+      - href: 01-index.qmd
         text: Home
-      - href: about.qmd
+      - href: 02-career.qmd
+        text: Career
+      - href: 03-publications.qmd
+        text: Publications
+      - href: 04-digitalops.qmd
+        text: DigitalOps
+      - href: 05-contact.qmd
         text: Contact
     right:
       - icon: github
@@ -35,7 +42,8 @@ format:
     toc-title: ""
     toc-location: left
     code-copy: true
-    code-overflow: scroll
+    code-overflow: wrap
+    mainfont: "Atkinson Hyperlegible"
 
 editor: visual
 

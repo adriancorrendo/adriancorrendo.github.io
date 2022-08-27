@@ -1,0 +1,91 @@
+---
+title: ""
+format:
+  html:
+    fontsize: 0.8em
+    linestretch: 1
+---
+
+# 👁️‍🗨 Vision
+
+I am an agronomist with +10 years of experience in research and stakeholders education, underpinning the development and recommendation of the best crop management practices for productive, efficient, and environmentally safe farming systems. My passion and expertise are in cropping systems, soil fertility and crop nutrition, with a strong component of modern data analytics for the advancement of agriculture. I aim to play an active role in transdisciplinary projects that gather diverse agricultural stakeholders.
+
+# ![](assets/images/briefcase-solid.svg){width="40"} Experience
+
+## Postdoctoral Fellow - Digital Agronomy
+### 2022 - ongoing. 
+
+{{< fa location-dot >}} Department of Agronomy, Kansas State University
+
+_Description_: Research and Extension on sustainable agriculture and resilience of farming systems. Research duties include applied geo-spatial and machine learning analysis, development of digital tools, literature reviews, preparation of reports, scientific manuscripts, and professional presentations. Collaborator of the Digital Tools-Farming Systems and Geospatial consortium (SIIL-USAID, https://digitalconsortium.wixsite.com/dgfsc) to advance the development of digital tools for smallholder farmers around the globe. Extension duties include field days, workshops, and corn-soybean schools for farmers. Supervisor: Dr. Ignacio Ciampitti.
+
+## Guest Lecturer
+### Spring 2022
+
+{{< fa location-dot >}} College of Agriculture, Kansas State University
+
+Invited lecturer. On-Farm Research, Challenges and Opportunities. AGRON-655, Site-Specific Agriculture. Course Instructor: Dr. Jeffrey Siegfried.
+
+## Guest Lecturer
+### Fall 2021
+
+{{< fa location-dot >}} College of Agriculture, Universidad Católica de Córdoba
+
+Invited lecturer on soil P fertility and crop P nutrition management. Certificate in Precision Agriculture. Director: Ing. Agr. Esteban Tronfi. Coordinator: Ing. Agr. Franco Vizzio.
+
+## Graduate Research Assistant
+### 2018 - 2021
+
+{{< fa location-dot >}} Department of Agronomy, Kansas State University
+
+
+Conducting and coordinating field research in corn and soybean crops in North Central Kansas. Planning and execution of plant and soil sampling and laboratory analyses. Data analysis, preparation of reports, scientific manuscripts, and professional presentations. Extension activities during field days and workshops. Supervisor: Dr. Ignacio Ciampitti.
+
+## Assistant Agronomist
+### 2010-2018
+
+{{< fa location-dot >}} Latin America Southern Cone, International Plant Nutrition Institute
+
+Professional training courses in soil fertility and crop nutrition for farmers and crop advisors. Writing scientific manuscripts, research protocols, reports, extension and press articles. Collaborator in various research projects in soil fertility and crop nutrition in the Southern Cone of Latin America. Co-editor of quarterly magazine “Informaciones Agronómicas del Cono Sur” and “Informaciones Agronómicas de Hispanoamérica”. Webpage and social media managing. Organizer of a Soil Fertility Symposia Series (2009, 2011, 2013, 2015, and 2017).  Supervisor: Dr. Fernando Garcia.
+
+## Research Assistant
+### 2014-2018
+
+{{< fa location-dot >}} On-Farm Long-Term Crop Nutrition Network of Eastern Plains (Bolivia).
+
+Main collaborator. Responsibilities: protocols, data analysis, reports and scientific articles.
+
+## Research Assistant
+### 2013-2018
+
+{{< fa location-dot >}} On-Farm Long-Term Crop Nutrition Network of CREA Northern Cordoba (Argentina). CREA-IPNI-Nutrien.
+
+Main collaborator. Responsibilities: protocols, data analysis, reports and scientific articles.
+
+## Research Assistant
+### 2010-2018
+
+{{< fa location-dot >}} On-Farm Long-Term Crop Nutrition Network of CREA Southern Santa Fe (Argentina). CREA-IPNI-Nutrien.
+
+Main collaborator. Responsibilities: protocols, data analysis, reports and scientific articles, workshops organization.
+
+## Undergraduate Assistant Agronomist
+### 2010-2018
+
+{{< fa location-dot >}} Latin America Southern Cone, International Plant Nutrition Institute
+
+Data entry. Database development of resources on soil fertility and crop nutrition. Writing scientific manuscripts, research reports, and extension articles. Collaborator in research projects and professional training in soil fertility and crop nutrition. Co-editor of quarterly magazine “Informaciones Agronómicas del Cono Sur”.
+
+## Undergraduate Assistant
+### 2008-2011
+
+Soil Fertility and Fertilizers Department. College of Agriculture, University of Buenos Aires.
+
+*Ad-honorem* teaching assistant & assistant of research projects: i) PIP  5432  "Responsible mechanisms for the phosphorus recovery and use efficiency in soybean, maize and sunflower", and ii) PICT 11170 “Soil available P management and P nutrition for soybean and other crops of the Pampas Region”. Responsibilities: installation and monitoring of field and greenhouse experiments. Soil and plant sampling and laboratory analysis. Evaluation of crop roots (soybean, maize, and sunflower). Soil Fertility and Fertilizers Department, College of Agriculture of University of Buenos Aires. Supervisors: Dr. Gerardo Rubio, and Dr. M. Fernández.
+
+## Undergraduate Research Assistant
+### 2007
+
+{{< fa location-dot >}} IFEVA. College of Agriculture, University of Buenos Aires.
+
+Field work assistant in ecology experimental plots. Grassland evaluation and installation of field experiment. Place: Estancia “San Claudio” Carlos Casares. Supervisors: Dr. Isabel Miranda, and Dr. Enrique J. Chaneton.

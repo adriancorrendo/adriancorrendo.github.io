@@ -1,0 +1,19 @@
+---
+title: "Contact me"
+---
+
+{{< fa envelope >}} correndo@ksu.edu
+
+{{< fa map-pin >}} 2014E Throckmorton PSC, 1712 Claflin Rd., Manhattan, KS-66506, USA.
+
+![](assets/images/twitter-brands.svg){width="25"} [\@aacorrendo](https://twitter.com/aacorrendo)
+
+![](assets/images/linkedin-brands.svg){width="25" height="25"} [adriancorrendo](https://linkedin.com/in/adriancorrendo)
+
+![](assets/images/github-brands.svg){width="25" height="25"} [GitHub](https://github.com/adriancorrendo)
+
+{{< ai google-scholar >}} GoogleScholar
+
+{{< ai researchgate >}} ResearchGate
+
+{{< fa database >}} HarvardDataverse
