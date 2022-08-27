@@ -34,14 +34,11 @@ A great crop hides a whole story of questions underneath. Curiosity drives farme
 
 -   Research
 
-    -   Dynamic future scenarios require research exploring the interactions between
-        plant genetics (G), environment (E), and crop management (M).
+    -   Dynamic future scenarios require research exploring the interactions between plant genetics (G), environment (E), and crop management (M).
 
 -   Extension
 
-    -   By addressing stakeholders' concerns we visualize research gaps, we
-        facilitate the right development and adoption of technologies, and we
-        also enhance productivity and the resources use efficiency.
+    -   By addressing stakeholders' concerns we visualize research gaps, we facilitate the right development and adoption of technologies, and we also enhance productivity and the resources use efficiency.
 
 -   Education
 
