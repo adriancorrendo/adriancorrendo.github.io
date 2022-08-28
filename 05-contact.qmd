@@ -18,14 +18,10 @@ title: "Contact me"
 
 [GitHub](https://github.com/adriancorrendo)
 
-{{< ai orcid >}}
-[ORCID](https://orcid.org/0000-0002-4172-289X)
+{{< ai orcid >}} ORCID
 
-{{< ai google-scholar >}}
-[GoogleScholar](https://scholar.google.com/citations?user=4h88EXkAAAAJ&hl=en)
+{{< ai google-scholar >}} GoogleScholar
 
-{{< ai researchgate >}}
-[ResearchGate](https://www.researchgate.net/profile/Adrian-Correndo)
+{{< ai researchgate >}} ResearchGate
 
-{{< fa database >}}
-[HarvardDataverse](https://dataverse.harvard.edu/dataverse/adriancorrendo)
+{{< fa database >}} HarvardDataverse
