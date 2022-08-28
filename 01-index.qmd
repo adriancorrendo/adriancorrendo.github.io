@@ -26,3 +26,7 @@ On my [Career](https://adriancorrendo.github.io/02-career.html) section you will
 The [Publications](https://adriancorrendo.github.io/03-publications.html) section provides a summary the diverse type of literature material I have produced during my career.
 
 If you're interested in my digital developments, my [DigitalOps](https://adriancorrendo.github.io/04-digitalops.html) section includes links to my R-packages (e.g. [*soiltestcorr*](https://adriancorrendo.github.io/soiltestcorr/), [*metrica*](https://adriancorrendo.github.io/metrica/)), Shinyapps (user-friendly interfaces), digital repositories, and tutorials.
+
+## 📂 CV
+
+[{{< fa file-pdf >}}](assets/resources/CV_Correndo_AUG-28-2022.pdf)
