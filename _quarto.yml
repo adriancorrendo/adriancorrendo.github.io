@@ -31,7 +31,6 @@ website:
     background: light
   twitter-card:
     creator: "@aacorrendo"
-    site: "@CiampittiLab"
     
 format:
   html:

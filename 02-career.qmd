@@ -6,9 +6,9 @@ format:
     linestretch: 1
 ---
 
-# 👁️‍🗨 Vision
+# 👁️‍ Mission & Vision
 
-I am an agronomist with +10 years of experience in research and stakeholders education, underpinning the development and recommendation of the best crop management practices for productive, efficient, and environmentally safe farming systems. My passion and expertise are in cropping systems, soil fertility and crop nutrition, with a strong component of modern data analytics for the advancement of agriculture. I aim to play an active role in transdisciplinary projects that gather diverse agricultural stakeholders.
+I am an agronomist with +10 years of experience in research and stakeholders education, underpinning the development and recommendation of the best crop management practices for productive, efficient, and environmentally safe farming systems. My passion and expertise are in cropping systems, soil fertility and crop nutrition, and applied computer programming to put modern data analytics and digital solutions to the service of agriculture. I aim to play an active role in transdisciplinary projects that gather diverse agricultural stakeholders.
 
 ## 🎓Education
 
@@ -18,7 +18,7 @@ I am an agronomist with +10 years of experience in research and stakeholders edu
 
 -   BS, Agronomy. Universidad de Buenos Aires. 2011.
 
-# ![](assets/images/briefcase-solid.svg){width="40"} Experience
+# ![](assets/images/briefcase-solid.svg){width="30"} Experience
 
 ## Postdoctoral Fellow - Digital Agronomy
 

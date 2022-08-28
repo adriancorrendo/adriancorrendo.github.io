@@ -6,16 +6,26 @@ title: "Contact me"
 
 {{< fa map-pin >}} 2014E Throckmorton PSC, 1712 Claflin Rd., Manhattan, KS-66506, USA.
 
-![](assets/images/twitter-brands.svg){width="25"} [\@aacorrendo](https://twitter.com/aacorrendo)
+![](assets/images/twitter-brands.svg){width="25"}
 
-![](assets/images/linkedin-brands.svg){width="25" height="25"} [adriancorrendo](https://linkedin.com/in/adriancorrendo)
+[\@aacorrendo](https://twitter.com/aacorrendo)
 
-![](assets/images/github-brands.svg){width="25" height="25"} [GitHub](https://github.com/adriancorrendo)
+![](assets/images/linkedin-brands.svg){width="25" height="25"}
 
-{{< ai orcid >}} ORCID
+[adriancorrendo](https://linkedin.com/in/adriancorrendo)
 
-{{< ai google-scholar >}} GoogleScholar
+![](assets/images/github-brands.svg){width="25" height="25"}
 
-{{< ai researchgate >}} ResearchGate
+[GitHub](https://github.com/adriancorrendo)
 
-{{< fa database >}} HarvardDataverse
+{{< ai orcid >}}
+[ORCID](https://orcid.org/0000-0002-4172-289X)
+
+{{< ai google-scholar >}}
+[GoogleScholar](https://scholar.google.com/citations?user=4h88EXkAAAAJ&hl=en)
+
+{{< ai researchgate >}}
+[ResearchGate](https://www.researchgate.net/profile/Adrian-Correndo)
+
+{{< fa database >}}
+[HarvardDataverse](https://dataverse.harvard.edu/dataverse/adriancorrendo)
