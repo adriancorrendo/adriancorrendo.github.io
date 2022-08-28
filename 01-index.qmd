@@ -6,19 +6,22 @@ format:
     linestretch: 1
 ---
 
-# Bio
+# 🙋🏻 Bio
 
 ::: {layout-ncol="2"}
-# 🙋🏻
-
 | Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. Since 2018, I live with my wife (Milagros) and our little girl (Amelie) in Manhattan, Kansas, USA.
 | 
 | My mission is to contribute to the development and transfer of science for sustainable farming systems. Thus, I dedicate my career to develop decision support tools that hasten the adoption of sustainable management practices for agriculture.
 | 
-| I make use of applied statistics and programming to develop digital tools that put modern data analytics to the service of cropping systems, soil fertility and crop nutrition.
 
-![](images/2-02.jpg){fig-align="center" width="368"}
+![](images/2-02.jpg){fig-align="center" width="305"}
 :::
+
+## 👷🏻What do I do?
+
+I make use of applied statistics and programming to develop digital tools that put modern data analytics (e.g. Machine Learning, Bayesian stats) to the service of cropping systems, soil fertility and crop nutrition.
+
+On my [DigitalOps](https://adriancorrendo.github.io/04-digitalops.html) section you may find my most recent developments including R-packages ([soiltestcorr](https://adriancorrendo.github.io/soiltestcorr/) and [metrica](https://adriancorrendo.github.io/metrica/)) and Shinyapps (user-friendly interfaces) that facilitate end users taks.
 
 ## 🌽Interests
 
