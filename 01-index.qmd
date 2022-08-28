@@ -21,20 +21,8 @@ format:
 
 I make use of applied statistics and programming to develop digital tools that put modern data analytics (e.g. Machine Learning, Bayesian stats) to the service of cropping systems, soil fertility and crop nutrition.
 
-On my [DigitalOps](https://adriancorrendo.github.io/04-digitalops.html) section you may find my most recent developments including R-packages ([soiltestcorr](https://adriancorrendo.github.io/soiltestcorr/) and [metrica](https://adriancorrendo.github.io/metrica/)) and Shinyapps (user-friendly interfaces) that facilitate end users taks.
+On my [Career](https://adriancorrendo.github.io/02-career.html) section you will find details on my professional life and experience.
 
-## 🌽Interests
+The [Publications](https://adriancorrendo.github.io/03-publications.html) section provides a summary the diverse type of literature material I have produced during my career.
 
-Sustainable Farming \| Crop Nutrition \| Data Science \| Digital Solutions
-
-A great crop hides a whole story of questions underneath. Curiosity drives farmers, agronomists, and scientists to achieve improvements in our farming systems and communities.
-
--   **Research**: Dynamic future scenarios require research exploring the interactions between plant genetics (G), environment (E), and crop management (M).
-
--   **Extension**: By addressing stakeholders' concerns we visualize research gaps, we facilitate the right development and adoption of technologies, and we also enhance productivity and the resources use efficiency.
-
--   **Education**: Leaders of the farming of the future require transdisciplinary work and education that provides them the tools to efficiently utilize multiple data sources for decision-making.
-
-# 🖼️Pictures
-
-Coming soon...
+If you're interested in my digital developments, my [DigitalOps](https://adriancorrendo.github.io/04-digitalops.html) section includes links to my R-packages (e.g. [*soiltestcorr*](https://adriancorrendo.github.io/soiltestcorr/), [*metrica*](https://adriancorrendo.github.io/metrica/)), Shinyapps (user-friendly interfaces), digital repositories, and tutorials.

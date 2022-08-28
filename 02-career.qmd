@@ -18,6 +18,18 @@ I am an agronomist with +10 years of experience in research and stakeholders edu
 
 -   BS, Agronomy. Universidad de Buenos Aires. 2011.
 
+## 🌽Interests
+
+Sustainable Farming \| Crop Nutrition \| Data Science \| Digital Solutions
+
+A great crop hides a whole story of questions underneath. Curiosity drives farmers, agronomists, and scientists to achieve improvements in our farming systems and communities.
+
+-   **Research**: Dynamic future scenarios require research exploring the interactions between plant genetics (G), environment (E), and crop management (M).
+
+-   **Extension**: By addressing stakeholders' concerns we visualize research gaps, we facilitate the right development and adoption of technologies, and we also enhance productivity and the resources use efficiency.
+
+-   **Education**: Leaders of the farming of the future require transdisciplinary work and education that provides them the tools to efficiently utilize multiple data sources for decision-making.
+
 # ![](assets/images/briefcase-solid.svg){width="30"} Experience
 
 ## Postdoctoral Fellow - Digital Agronomy

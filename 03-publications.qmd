@@ -9,9 +9,9 @@ format:
 ::: panel-tabset
 # 📑Refereed
 
-1.  Correndo, A.A., Moro Rosso, L.H., Hernandez, C.H., Bastos, L.M., Nieto, L., Holzworth, D., Ciampitti, I.A., 202#. *Under review at Journal of Open Access Software*. **Pre-print** available at: at:[https://github.com/openjournals/joss-papers/blob/joss.04655](https://github.com/openjournals/joss-papers/blob/joss.04655/joss.04655/10.21105.joss.04655.pdf)
+1.  **Correndo, A.A.**, Moro Rosso, L.H., Hernandez, C.H., Bastos, L.M., Nieto, L., Holzworth, D., Ciampitti, I.A., 2022. *Under review at Journal of Open Access Software*. **Pre-print** available at: [https://github.com/openjournals/joss-papers/blob/joss.04655](https://github.com/openjournals/joss-papers/blob/joss.04655/joss.04655/10.21105.joss.04655.pdf)
 
-2.  Correndo, A.A., Pearce, A.W., Bolster, C.H., Spargo, J.T., Osmond, D., Ciampitti, I.A., 2022. The Soiltestcorr R Package: An Accessible Framework for Reproducible Correlation Analysis of Crop Yield and Soil Test Data. *Under review at Software X*. **Pre-print** available at SSRN: <https://ssrn.com/abstract=4169750> or [http://dx.doi.org/10.2139/ssrn.4169750](https://dx.doi.org/10.2139/ssrn.4169750)
+2.  **Correndo, A.A.**, Pearce, A.W., Bolster, C.H., Spargo, J.T., Osmond, D., Ciampitti, I.A., 2022. The Soiltestcorr R Package: An Accessible Framework for Reproducible Correlation Analysis of Crop Yield and Soil Test Data. *Under review at Software X*. **Pre-print** available at SSRN: <https://ssrn.com/abstract=4169750> or [http://dx.doi.org/10.2139/ssrn.4169750](https://dx.doi.org/10.2139/ssrn.4169750)
 
 3.  Secchi, M.A., **Correndo, A.A.**, Stamm, M., Durrett , T., Vara Prasad, P.V., Messina, C., and Ciampitti , I.A., 202#. Suitability of different environments for winter canola oil production in the United States of America. *Field Crops Res*. *In-press.*
 
