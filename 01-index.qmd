@@ -29,4 +29,4 @@ If you're interested in my digital developments, my [DigitalOps](https://adrianc
 
 ## 📂 CV
 
-Download CV: [{{< fa file-pdf >}}](https://raw.githubusercontent.com/adriancorrendo/adriancorrendo.github.io/main/assets/resources/CV_Correndo_AUG-30-2022.pdf)
+Download CV: [{{< fa file-pdf >}}](https://raw.githubusercontent.com/adriancorrendo/adriancorrendo.github.io/main/assets/resources/CV_Correndo_AUG-31-2022.pdf)
