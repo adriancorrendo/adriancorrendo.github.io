@@ -14,7 +14,7 @@ format:
 | My mission is to contribute to the development and transfer of science for sustainable farming systems. Thus, I dedicate my career to develop decision support tools that hasten the adoption of sustainable management practices for agriculture.
 | 
 
-![](images/2-02.jpg){fig-align="center" width="305"}
+![](images/Adrian%20Correndo-KSU.jpg){fig-align="center" width="317"}
 :::
 
 ## 👷🏻What do I do?
