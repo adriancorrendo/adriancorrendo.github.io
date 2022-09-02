@@ -9,23 +9,27 @@ format:
 # 🙋🏻 Bio
 
 ::: {layout-ncol="2"}
-| Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. Since 2018, I live with my wife (Milagros) and our little girl (Amelie) in Manhattan, Kansas, USA.
+| Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina.  I live with my wife (Milagros) and our little girl (Amelie) in Manhattan, Kansas, USA, where I got my Ph.D. in Agronomy in 2021. 
 | 
-| My mission is to contribute to the development and transfer of science for sustainable farming systems. Thus, I dedicate my career to develop decision support tools that hasten the adoption of sustainable management practices for agriculture.
+| Currently, I am a Postdoctoral Fellow at Kansas State Univeristy collaborating on various research projects and outreach activities, with special focus on digital support tools for corn and soybean crops.
+| 
+| My mission is to substantially contribute to the development and transfer of science for sustainable farming systems.
+| 
+| Teamwork is my favorite word, an essential part of my professional and personal philosophy.  I work to inspire and support the future leaders of agriculture.
 | 
 
-![](images/Adrian%20Correndo-KSU.jpg){fig-align="center" width="317"}
+![](images/Adrian%20Correndo-KSU.jpg){fig-align="center" width="295"}
 :::
 
 ## 👷🏻What do I do?
 
-I make use of applied statistics and programming to develop digital tools that put modern data analytics (e.g. Machine Learning, Bayesian stats) to the service of cropping systems, soil fertility and crop nutrition.
+I work to identify and promote best management practices for cropping systems at multiple scales. I heavily rely my work on applied statistics and reproducible programming to develop accessible and cross-scale digital tools that put modern data analytics (e.g. Machine Learning, Bayesian stats) to the service of our communities.
 
-On my [Career](https://adriancorrendo.github.io/02-career.html) section you will find details on my professional life and experience.
+On my [Career](https://adriancorrendo.github.io/02-career.html) section you will find details on my professional life, experience, and interests.
 
-The [Publications](https://adriancorrendo.github.io/03-publications.html) section provides a summary the diverse type of literature material I have produced during my career.
+My [Publications](https://adriancorrendo.github.io/03-publications.html) section provides a summary the diverse type of literature material I have produced during my career.
 
-If you're interested in my digital developments, my [DigitalOps](https://adriancorrendo.github.io/04-digitalops.html) section includes links to my R-packages (e.g. [*soiltestcorr*](https://adriancorrendo.github.io/soiltestcorr/), [*metrica*](https://adriancorrendo.github.io/metrica/)), Shinyapps (user-friendly interfaces), digital repositories, and tutorials.
+If you're interested in my digital developments, my [DigitalOps](https://adriancorrendo.github.io/04-digitalops.html) section includes links to my R-packages ( [*soiltestcorr*](https://adriancorrendo.github.io/soiltestcorr/), [*metrica*](https://adriancorrendo.github.io/metrica/)*, [XPolaris](https://cran.r-project.org/package=XPolaris)*), Shinyapps (user-friendly interfaces), digital repositories, and tutorials.
 
 ## 📂 CV
 
