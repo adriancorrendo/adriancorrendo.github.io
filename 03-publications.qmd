@@ -13,7 +13,7 @@ format:
 
 2.  **Correndo, A.A.**, Pearce, A.W., Bolster, C.H., Spargo, J.T., Osmond, D., Ciampitti, I.A., 2022. The Soiltestcorr R Package: An Accessible Framework for Reproducible Correlation Analysis of Crop Yield and Soil Test Data. *Under review at Software X*. **Pre-print** available at SSRN: <https://ssrn.com/abstract=4169750> or [http://dx.doi.org/10.2139/ssrn.4169750](https://dx.doi.org/10.2139/ssrn.4169750)
 
-3.  Secchi, M.A., **Correndo, A.A.**, Stamm, M., Durrett , T., Vara Prasad, P.V., Messina, C., and Ciampitti , I.A., 202#. Suitability of different environments for winter canola oil production in the United States of America. *Field Crops Res*. *In-press.*
+3.  Secchi, M.A., **Correndo, A.A.**, Stamm, M., Durrett , T., Vara Prasad, P.V., Messina, C., and Ciampitti , I.A., 202#. Suitability of different environments for winter canola oil production in the United States of America. *Field Crops Res*. 287, 108658. <https://doi.org/10.1016/j.fcr.2022.108658>
 
 4.  **Correndo, A.A.**, McArtor, B., Prestholt, A., Hernandez, C., Kyveryga, P., and Ciampitti , I.A., 2022. Interactive Soybean Variable-Rate Seeding Simulator for Farmers. *Agron. J. In-press.* <https://doi.org/10.1002/agj2.21181>
 
