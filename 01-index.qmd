@@ -2,11 +2,7 @@
 title: "Welcome"
 format:
   html:
-<<<<<<< HEAD
     fontsize: 0.73em
-=======
-    fontsize: 0.75em
->>>>>>> 03ba7b397bd900d83e7d21cf6c6a011786310bbe
     linestretch: 1
 ---
 
