@@ -11,29 +11,29 @@ format:
 
 1.  Antunes de Almeida, L.F., **Correndo, A.A.**, Ciampitti. I.A., et al., 2023. Soybean yield response to nitrogen and sulfur fertilization in the United States: contribution of soil N and N fixation processes. *Eur. J. Agron.* 145, 126791. <https://doi.org/10.1016/j.eja.2023.126791>
 
-2. Carcedo, A.J., Viera N., Marziotte, L., **Correndo, A.A.**, Alemo, A., Vara Prasad, P.V., Min, D., Stewart, Z.P., Faye, A., and Ciampitti, I.A., 2023. The urgency for investment on local data for advancing options for improving crop productivity and climate resilience assessments in Africa: a review for APSIM crop modeling. *Env. Modell. Soft* 161, 105633. <https://doi.org/10.1016/j.envsoft.2023.105633>
+2.  Carcedo, A.J., Viera N., Marziotte, L., **Correndo, A.A.**, Alemo, A., Vara Prasad, P.V., Min, D., Stewart, Z.P., Faye, A., and Ciampitti, I.A., 2023. The urgency for investment on local data for advancing options for improving crop productivity and climate resilience assessments in Africa: a review for APSIM crop modeling. *Env. Modell. Soft* 161, 105633. <https://doi.org/10.1016/j.envsoft.2023.105633>
 
-3. Moro Rosso, L.H., de Borja Reis, A.F., Tamagno, S., **Correndo, A.A.**, Vara Prasad, P.V., Ciampitti. I.A., 2023. Temporal variation of soil N supply defines N fixation in soybeans. *Eur. J. Agron* 144, 126745. <https://doi.org/10.1016/j.eja.2023.126745>
+3.  Moro Rosso, L.H., de Borja Reis, A.F., Tamagno, S., **Correndo, A.A.**, Vara Prasad, P.V., Ciampitti. I.A., 2023. Temporal variation of soil N supply defines N fixation in soybeans. *Eur. J. Agron* 144, 126745. <https://doi.org/10.1016/j.eja.2023.126745>
 
-4. **Correndo, A.A.**, Pearce, A., Bolster, C., Spargo, J., Osmond, D., and Ciampitti, I.A., 2023. The soiltestcorr R package: An accessible framework for reproducible correlation analysis of crop yield and soil test data. Submitted to *SoftwareX* 21, 101275,  [https://doi.org/10.1016/j.softx.2022.101275](https://doi.org/10.1016/j.softx.2022.101275)
+4.  **Correndo, A.A.**, Pearce, A., Bolster, C., Spargo, J., Osmond, D., and Ciampitti, I.A., 2023. The soiltestcorr R package: An accessible framework for reproducible correlation analysis of crop yield and soil test data. Submitted to *SoftwareX* 21, 101275, <https://doi.org/10.1016/j.softx.2022.101275>
 
-5. Bolster, C., **Correndo, A.A.**, Pearce, A., Spargo, J., Osmond, D., and Slaton, N., 2023. A spreadsheet for determining critical soil test values using the modified arcsine-log calibration curve. Submitted to *Soil Sci. Soc. Am. J.* 87, 182-189, <https://doi.org/10.1002/saj2.20498>
+5.  Bolster, C., **Correndo, A.A.**, Pearce, A., Spargo, J., Osmond, D., and Slaton, N., 2023. A spreadsheet for determining critical soil test values using the modified arcsine-log calibration curve. Submitted to *Soil Sci. Soc. Am. J.* 87, 182-189, <https://doi.org/10.1002/saj2.20498>
 
-6. **Correndo, A.A.**, Moro Rosso, L.H., Hernandez, C.H., Bastos, L.M., Nieto, L., Holzworth, D., Ciampitti, I.A., 2022. metrica: an R package to evaluate prediction performance of regression and classification point-forecast models. Journal of Open Source Software, 7(79), 4655, [https://joss.theoj.org/papers/10.21105/joss.04655](https://joss.theoj.org/papers/10.21105/joss.04655)
+6.  **Correndo, A.A.**, Moro Rosso, L.H., Hernandez, C.H., Bastos, L.M., Nieto, L., Holzworth, D., Ciampitti, I.A., 2022. metrica: an R package to evaluate prediction performance of regression and classification point-forecast models. Journal of Open Source Software, 7(79), 4655, <https://joss.theoj.org/papers/10.21105/joss.04655>
 
-7. Secchi, M.A., **Correndo, A.A.**, Stamm, M., Durrett , T., Vara Prasad, P.V., Messina, C., and Ciampitti , I.A., 202#. Suitability of different environments for winter canola oil production in the United States of America. *Field Crops Res*. 287, 108658. <https://doi.org/10.1016/j.fcr.2022.108658>
+7.  Secchi, M.A., **Correndo, A.A.**, Stamm, M., Durrett , T., Vara Prasad, P.V., Messina, C., and Ciampitti , I.A., 202#. Suitability of different environments for winter canola oil production in the United States of America. *Field Crops Res*. 287, 108658. <https://doi.org/10.1016/j.fcr.2022.108658>
 
-8. **Correndo, A.A.**, McArtor, B., Prestholt, A., Hernandez, C., Kyveryga, P., and Ciampitti , I.A., 2022. Interactive Soybean Variable-Rate Seeding Simulator for Farmers. *Agron. J.* 114, 3554-3565, <https://doi.org/10.1002/agj2.21181>
+8.  **Correndo, A.A.**, McArtor, B., Prestholt, A., Hernandez, C., Kyveryga, P., and Ciampitti , I.A., 2022. Interactive Soybean Variable-Rate Seeding Simulator for Farmers. *Agron. J.* 114, 3554-3565, <https://doi.org/10.1002/agj2.21181>
 
 9.  Sadras, V.O., Giordano, N., **Correndo, A.A.**, Cossani, M., Ferreyra, J.M., Caviglia, O.P., Coulter, J.A., Ciampitti , I.A., and Lollato,R.A., 2022. Temperature-driven developmental modulation of yield response to nitrogen in wheat and maize. *Frontiers in Agronomy.* <https://doi.org/10.3389/fagro.2022.903340>
 
-10.  **Correndo, A.A.**, Adee, E., Moro Rosso, L.H., Tremblay, N., Vara Prasad, P.V., Du, J., and Ciampitti, I.A., 2022. Footprints of corn nitrogen management on the following soybean crop. *Agron. J.* 1-14. <https://doi.org/10.1002/agj2.21023>
+10. **Correndo, A.A.**, Adee, E., Moro Rosso, L.H., Tremblay, N., Vara Prasad, P.V., Du, J., and Ciampitti, I.A., 2022. Footprints of corn nitrogen management on the following soybean crop. *Agron. J.* 1-14. <https://doi.org/10.1002/agj2.21023>
 
-11.  **Correndo, A.A.**, Tremblay, N., ...Ciampitti, I.A. et al., 2021. Unraveling uncertainty drivers of the maize yield response to nitrogen: A Bayesian and machine learning approach. *Agr. For. Meteorol.* 311, 108668. <https://doi.org/10.1016/j.agrformet.2021.108668>
+11. **Correndo, A.A.**, Tremblay, N., ...Ciampitti, I.A. et al., 2021. Unraveling uncertainty drivers of the maize yield response to nitrogen: A Bayesian and machine learning approach. *Agr. For. Meteorol.* 311, 108668. <https://doi.org/10.1016/j.agrformet.2021.108668>
 
-12.  **Correndo, A.A.**, Gutierrez-Boem, F.H., Garcia, F.O.,... Salvagiotti, F., 2021. Attainable yield and soil texture as drivers of maize response to nitrogen: a synthesis analysis for Argentina. *Field Crops Res.* 273, 108299. <https://doi.org/10.1016/j.fcr.2021.108299>
+12. **Correndo, A.A.**, Gutierrez-Boem, F.H., Garcia, F.O.,... Salvagiotti, F., 2021. Attainable yield and soil texture as drivers of maize response to nitrogen: a synthesis analysis for Argentina. *Field Crops Res.* 273, 108299. <https://doi.org/10.1016/j.fcr.2021.108299>
 
-13.  **Correndo, A.A.**, Fernandez, J., Prasad, V., Ciampitti, I.A., 2021. Do water and nitrogen management practices impact grain quality in maize? *Agronomy* 11(9), 1851. <https://doi.org/10.3390/agronomy11091851>
+13. **Correndo, A.A.**, Fernandez, J., Prasad, V., Ciampitti, I.A., 2021. Do water and nitrogen management practices impact grain quality in maize? *Agronomy* 11(9), 1851. <https://doi.org/10.3390/agronomy11091851>
 
 14. Ciampitti, I.A., de Borja Reis, A.F., Cordova, C., Castellano, M.J., Archontoulis, S., **Correndo, A.A.**, Antunes de Almeida, L.F., Moro Rosso, L.H.,, 202X. Revisiting biological nitrogen fixation dynamics in soybeans. *Front. Plant Sci.* 12, 727021. <https://doi.org/10.3389/fpls.2021.727021>
 
@@ -61,11 +61,11 @@ format:
 
 ### Most recent (25)
 
-1. Ciampitti, I.A., **Correndo, A.A.**, Sittel, M., Redmond, C. 2022. Spring planting is approaching: Soil temperature and moisture status. March 16th, 2023: Issue 947. [LINK](https://eupdate.agronomy.ksu.edu/article_new/spring-planting-is-approaching-soil-temperature-and-moisture-status-535-2)
+1.  Ciampitti, I.A., **Correndo, A.A.**, Sittel, M., Redmond, C. 2022. Spring planting is approaching: Soil temperature and moisture status. March 16th, 2023: Issue 947. [LINK](https://eupdate.agronomy.ksu.edu/article_new/spring-planting-is-approaching-soil-temperature-and-moisture-status-535-2)
 
-2. Ciampitti, I.A., **Correndo, A.A.**. 2022. Optimal corn seeding rate recommendations. March 23rd, 2023: Issue 948. [LINK](https://eupdate.agronomy.ksu.edu/article_new/optimal-corn-seeding-rate-recommendations-536-2)
+2.  Ciampitti, I.A., **Correndo, A.A.**. 2022. Optimal corn seeding rate recommendations. March 23rd, 2023: Issue 948. [LINK](https://eupdate.agronomy.ksu.edu/article_new/optimal-corn-seeding-rate-recommendations-536-2)
 
-3. Melchiori, R.J.M., Maltese, N., **Correndo, A.A.**, Novelli, L., & Caviglia, O. 2022.  How to decide nitrogen fertilization in maize under uncertain scenarios.  Serie de Extension INTA EEA Parana No. 89: 76-82. ISSN 0325 - 8874. Entre Rios, Argentina. [LINK](https://inta.gob.ar/sites/default/files/fertilizacion_maiz_diferentes_escenarios_.pdf)
+3.  Melchiori, R.J.M., Maltese, N., **Correndo, A.A.**, Novelli, L., & Caviglia, O. 2022. How to decide nitrogen fertilization in maize under uncertain scenarios. Serie de Extension INTA EEA Parana No. 89: 76-82. ISSN 0325 - 8874. Entre Rios, Argentina. [LINK](https://inta.gob.ar/sites/default/files/fertilizacion_maiz_diferentes_escenarios_.pdf)
 
 4.  Ciampitti, I.A., **Correndo, A.A.**, Sittel, M., Redmond, C. 2022. Drought and heat stress in Kansas soybean fields. Agronomy eUpdates. Kansas State university. August 25th, 2022: Issue 921. <https://eupdate.agronomy.ksu.edu/article_new/soybean-yield-potential-estimation-509-4>
 
@@ -79,11 +79,11 @@ format:
 
 9.  Antunes de Almeida, L.F., **Correndo, A.A.**, Adee, E., Dooley, S., Ciampitti, I.A. 2022. Soybean seed yield productivity and biological nitrogen fixation in Kansas. *Kansas Field Research 8(4)*. K-State Research and Extension. Kansas State university. <https://doi.org/10.4148/2378-5977.8300>
 
-10.  **Correndo, A.A.**, Lanza Lopez, O., Antunes de Almeida, L.F., Ciampitti, I.A.. 2022. Yield response to nitrogen management in a corn-soybean sequence in North Central Kansas - 2021 Season. *Kansas Agricultural Experiment Station Research Reports.* Vol. 8(4). K-State Research and Extension. Kansas State University. <https://doi.org/10.4148/2378-5977.8315>
+10. **Correndo, A.A.**, Lanza Lopez, O., Antunes de Almeida, L.F., Ciampitti, I.A.. 2022. Yield response to nitrogen management in a corn-soybean sequence in North Central Kansas - 2021 Season. *Kansas Agricultural Experiment Station Research Reports.* Vol. 8(4). K-State Research and Extension. Kansas State University. <https://doi.org/10.4148/2378-5977.8315>
 
-11.  **Correndo, A.A.**, Antunes de Almeida, L.F., Adee, E., Ciampitti, I.A., 2022. Do late season soybean management impact seed yields in East Kansas? *Kansas Agricultural Experiment Station Research Reports* Vol. 8(4). K-State Research and Extension. Kansas State University. <https://doi.org/10.4148/2378-5977.8301>
+11. **Correndo, A.A.**, Antunes de Almeida, L.F., Adee, E., Ciampitti, I.A., 2022. Do late season soybean management impact seed yields in East Kansas? *Kansas Agricultural Experiment Station Research Reports* Vol. 8(4). K-State Research and Extension. Kansas State University. <https://doi.org/10.4148/2378-5977.8301>
 
-12.  Ciampitti, I.A., **Correndo, A.A.**. 2022. Considerations for late planting (or replanted). Agronomy eUpdates. Kansas State university. June 9th, 2022: Issue 910. <https://bit.ly/3xYcfEx>
+12. Ciampitti, I.A., **Correndo, A.A.**. 2022. Considerations for late planting (or replanted). Agronomy eUpdates. Kansas State university. June 9th, 2022: Issue 910. <https://bit.ly/3xYcfEx>
 
 13. Ciampitti, I.A., **Correndo, A.A.**. 2022. Soybean row spacing in Kansas. Agronomy eUpdates. Kansas State university. April 29th, 2022: Issue 904. <https://bit.ly/3y7eS7f>
 
@@ -113,8 +113,7 @@ format:
 
 # 📓Book Chapters
 
-1. García, F.O., **Correndo, A.A.**, Reussi Calvo, N., Monzon, J.P., Ciampitti, I.A., Salvagiotti, F., Chapter 7: Crop Nutrition. In: Andrade, F., Otegui, M.E., Cirilo, A., & Uhart, S. (2023). Ecofisiologia del cultivo de maiz. 486p. ISBN 978-987-88-8326-7. [LINK](https://sites.google.com/agro.uba.ar/libroecofisiologadelcultivodem/inicio)
-
+1.  García, F.O., **Correndo, A.A.**, Reussi Calvo, N., Monzon, J.P., Ciampitti, I.A., Salvagiotti, F., Chapter 7: Crop Nutrition. In: Andrade, F., Otegui, M.E., Cirilo, A., & Uhart, S. (2023). Ecofisiologia del cultivo de maiz. 486p. ISBN 978-987-88-8326-7. [LINK](https://sites.google.com/agro.uba.ar/libroecofisiologadelcultivodem/inicio)
 
 2.  Majumdar, K., S. Zingore, F. García, **A. Correndo**, J. Timsina, & A.M. Johnston. 2017. Chapter 8: Improving Nutrient Management for Sustainable Intensification of Maize. In: Watson D. (2017). Achieving sustainable cultivation of maize, Volume 2. Cultivation techniques, pest and disease control. Burleigh Dodds Series in Agricultural Science. 400p. ISBN-13: 9781786760128.
 
@@ -136,15 +135,15 @@ format:
 
 ### Most recent (15)
 
-1. Bolster, C., **Correndo, A.A.**, Pearce, A., Spargo, J.T., Slaton, N.A., Osmond, D.L. 2022. A Spreadsheet for Determining Critical Soil Test Values Using the Modified Arcsine-Log Calibration Curve. Nov 6-9, Baltimore, MD, USA. [LINK](https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/145009)
+1.  Bolster, C., **Correndo, A.A.**, Pearce, A., Spargo, J.T., Slaton, N.A., Osmond, D.L. 2022. A Spreadsheet for Determining Critical Soil Test Values Using the Modified Arcsine-Log Calibration Curve. Nov 6-9, Baltimore, MD, USA. [LINK](https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/145009)
 
-2. **Correndo, A.A.**, Ciampitti, I.A. 2022. The Venture Creation in Data Science: Developing Packages and Web Tools Using R. Nov 6-9, Baltimore, MD, USA. <https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/142282>
+2.  **Correndo, A.A.**, Ciampitti, I.A. 2022. The Venture Creation in Data Science: Developing Packages and Web Tools Using R. Nov 6-9, Baltimore, MD, USA. <https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/142282>
 
-3. **Correndo, A.A.**, Holzworth, D., Ciampitti, I.A. 2022. Comparing Error Metrics to Test Predicted-Observed Agreement for Continuous Variables. Nov 6-9, Baltimore, MD, USA. <https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/142306>
+3.  **Correndo, A.A.**, Holzworth, D., Ciampitti, I.A. 2022. Comparing Error Metrics to Test Predicted-Observed Agreement for Continuous Variables. Nov 6-9, Baltimore, MD, USA. <https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/142306>
 
-4. Antunes de Almeida, L.F., **Correndo, A.A.**, et al. 2022. Soybean Yield Response to Nitrogen and Sulfur Fertilization in the United States. Nov 6-9, Baltimore, MD, USA. <https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/143887>
+4.  Antunes de Almeida, L.F., **Correndo, A.A.**, et al. 2022. Soybean Yield Response to Nitrogen and Sulfur Fertilization in the United States. Nov 6-9, Baltimore, MD, USA. <https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/143887>
 
-5. Giordano, N., **Correndo, A.A.**, Sadras, V.O., Lollato, R. 2022. Phenotypic Plasticity Unravels Genotype Specific Response to Nitrogen in Winter Wheat. Nov 6-9, Baltimore, MD, USA. <https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/142402>
+5.  Giordano, N., **Correndo, A.A.**, Sadras, V.O., Lollato, R. 2022. Phenotypic Plasticity Unravels Genotype Specific Response to Nitrogen in Winter Wheat. Nov 6-9, Baltimore, MD, USA. <https://scisoc.confex.com/scisoc/2022am/meetingapp.cgi/Paper/142402>
 
 6.  Ciampitti, I.A., **Correndo, A.A.**. 2022. Re-thinking effective use of niutrogen in major field crops, integrating breeding and management. Aug. 1-3, Lincoln, NE, USA. <https://agronomy.unl.edu/workshops-fielddays/NUE/presentations/Correndo_Ciampitti.pdf>
 
@@ -154,15 +153,15 @@ format:
 
 9.  **Correndo, A.A.**, & I. Ciampitti. 2020. Forecasting corn yield in Kansas. 2019 Kansas Corn Symposium. Jan. 23, Manhattan, KS, USA.
 
-10.  **Correndo, A.A.**, N. Tremblay, J. Rotundo, J. DeBruin, C. Messina, R. Schwalbert, J. Coulter, D. Ruiz-Diaz, A. Franzluebbers, J. Williams, S. Archontoulis, K. Steinke, E. Nafziger, D. Franzen, & I. Ciampitti. 2019. Corn nitrogen responsiveness in North America: a review. 2019 ASA-CSSA-SSSA Meetings. Nov. 10-13, San Antonio, TX, USA.
+10. **Correndo, A.A.**, N. Tremblay, J. Rotundo, J. DeBruin, C. Messina, R. Schwalbert, J. Coulter, D. Ruiz-Diaz, A. Franzluebbers, J. Williams, S. Archontoulis, K. Steinke, E. Nafziger, D. Franzen, & I. Ciampitti. 2019. Corn nitrogen responsiveness in North America: a review. 2019 ASA-CSSA-SSSA Meetings. Nov. 10-13, San Antonio, TX, USA.
 
-11.  **Correndo, A.A.**, & I. Ciampitti. 2019. Breaking Yield Barriers in Corn-Soybean. 2019 Kansas Corn Symposium. Jan. 23, Manhattan, KS, USA.
+11. **Correndo, A.A.**, & I. Ciampitti. 2019. Breaking Yield Barriers in Corn-Soybean. 2019 Kansas Corn Symposium. Jan. 23, Manhattan, KS, USA.
 
-12.  **Correndo, A.A.**, F. Salvagiotti, F. García, & F.H. Gutiérrez-Boem. 2018. Attainable yield and soil texture as drivers of pre-plant nitrogen test performance in corn in the argentine pampas. 2018 ASA-CSSA meetings. Nov. 4-7, Baltimore, MD, USA.
+12. **Correndo, A.A.**, F. Salvagiotti, F. García, & F.H. Gutiérrez-Boem. 2018. Attainable yield and soil texture as drivers of pre-plant nitrogen test performance in corn in the argentine pampas. 2018 ASA-CSSA meetings. Nov. 4-7, Baltimore, MD, USA.
 
-13.  Balboa, G., **A. Correndo**, M. Stewart, F. Salvagiotti, F.O. Garcia, E. Francisco, J.M Enrico and I.A. Ciampitti. 2018. Intensifying Soybean Management Systems in United States, Brazil and Argentina. 2018 ASA-CSSA meetings. Nov. 4-7, Baltimore, MD, USA.
+13. Balboa, G., **A. Correndo**, M. Stewart, F. Salvagiotti, F.O. Garcia, E. Francisco, J.M Enrico and I.A. Ciampitti. 2018. Intensifying Soybean Management Systems in United States, Brazil and Argentina. 2018 ASA-CSSA meetings. Nov. 4-7, Baltimore, MD, USA.
 
-14.  **Correndo, A.A.**, & F.O. Garcia. 2018. The utopia of the balanced fertilization of the cropping systems in Argentina. Proceedings of XXVI Argentinean Soil Science Congress. 15-18th, May 2018. Tucumán, Argentina.
+14. **Correndo, A.A.**, & F.O. Garcia. 2018. The utopia of the balanced fertilization of the cropping systems in Argentina. Proceedings of XXVI Argentinean Soil Science Congress. 15-18th, May 2018. Tucumán, Argentina.
 
 15. **Correndo, A.A.**, F. Salvagiotti, F. García, & F.H. Gutiérrez-Boem. 2018. Recalibration of Bray1-P critical thresholds for corn and soybean in Argentina. CLAP 2018. I Latin American Congress of Precision Agriculture. 11-13th April 2018. Santiago, Chile. [DOI: 10.13140/RG.2.2.28706.73922](https://www.researchgate.net/publication/324703753_Recalibracion_de_umbrales_criticos_de_P-Bray_para_maiz_y_soja_en_Argentina)
 

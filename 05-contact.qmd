@@ -1,35 +1,39 @@
 ---
 title: "Contact me"
+format:
+  html:
+    fontsize: 0.8em
+    linestretch: 1
 ---
 
 {{< fa envelope >}} correndo\@ksu.edu
 
 {{< fa map-pin >}} 2014E Throckmorton PSC, 1712 Claflin Rd., Manhattan, KS-66506, USA.
 
-![](assets/images/twitter-brands.svg){width="25"}
+::: columns
+::: {.column width="33%" align="center"}
+![](assets/images/twitter-brands.svg){fig-align="left" width="40" height="40"}[Twitter](https://twitter.com/aacorrendo)
+:::
 
-[\@aacorrendo](https://twitter.com/aacorrendo)
+::: {.column width="34%" align="center"}
+![](assets/images/linkedin-brands.svg){fig-align="left" width="40" height="40"}[Linkedin](https://linkedin.com/in/adriancorrendo)
+:::
 
-![](assets/images/linkedin-brands.svg){width="25" height="25"}
+::: {.column width="33%" align="center"}
+![](assets/images/github-brands.svg){width="40" height="40"} [GitHub](https://github.com/adriancorrendo)
+:::
+:::
 
-[adriancorrendo](https://linkedin.com/in/adriancorrendo)
+::: columns
+::: {.column width="33%" align="center"}
+{{< ai orcid >}}[ORCID](https://orcid.org/0000-0002-4172-289X)
+:::
 
-![](assets/images/github-brands.svg){width="25" height="25"}
+::: {.column width="34%" align="center"}
+{{< ai google-scholar >}}[GoogleScholar](https://scholar.google.com/citations?user=4h88EXkAAAAJ&hl=en)
+:::
 
-[GitHub](https://github.com/adriancorrendo)
-
-{{< ai orcid >}}
-
-[ORCID](https://orcid.org/0000-0002-4172-289X)
-
-{{< ai google-scholar >}}
-
-[GoogleScholar](https://scholar.google.com/citations?user=4h88EXkAAAAJ&hl=en)
-
-{{< ai researchgate >}}
-
-[ResearchGate](https://www.researchgate.net/profile/Adrian-Correndo)
-
-{{< fa database >}}
-
-[HarvardDataverse](https://dataverse.harvard.edu/dataverse/adriancorrendo)
+::: {.column width="33%" align="center"}
+{{< ai researchgate >}}[ResearchGate](https://www.researchgate.net/profile/Adrian-Correndo)
+:::
+:::

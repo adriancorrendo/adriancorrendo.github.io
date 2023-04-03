@@ -1,5 +1,9 @@
 ---
 title: "Digital Resources"
+format:
+  html:
+    fontsize: 0.8em
+    linestretch: 1
 ---
 
 Welcome to my Digital Resources section! 👋
@@ -48,7 +52,7 @@ Data and codes publicly available
 
 [<img src="assets/images/harvard_dataverse.png" width="300" height="200"/>](https://dataverse.harvard.edu/dataverse/adriancorrendo)
 
-## [GitHub repositories](https://github.com/adriancorrendo/) 
+## [GitHub repositories](https://github.com/adriancorrendo/)
 
 [![](assets/images/Screenshot%20GitHub.png){fig-align="left" width="300" height="200"}](https://github.com/adriancorrendo/)
 

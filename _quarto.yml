@@ -2,12 +2,12 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - "assets/resources/CV_Correndo_APR-2023.pdf"
+    - "assets/resources/CV_Correndo_APR-03-2023.pdf"
 
 website:
   title: "AdrianCorrendo"
   navbar:
-    background: "#4a4e69"
+    background: "#960f2b"
     left:
       - href: 01-index.qmd
         text: Home
@@ -26,8 +26,8 @@ website:
         href: https://twitter.com/aacorrendo
       - icon: linkedin
         href: https://www.linkedin.com/in/adriancorrendo/
-      - icon: globe
-        href: https://correndo1.wixsite.com/main
+      - icon: google
+        href: http://bit.ly/3zpaXCo
   page-footer: 
     left: "<span> Developed by Adrian Correndo using [Quarto](https://quarto.org/). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). </span>"
     background: light
@@ -36,7 +36,7 @@ website:
     
 format:
   html:
-    theme: unite
+    theme: yeti
     css: styles.css
     toc: true
     toc-title: ""
