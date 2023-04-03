@@ -61,6 +61,7 @@ Data and codes publicly available
 A series of recorded sessions sharing programming codes applied to agriculture.
 
 #### Tidy data analysis
+
 Split-plot design and repeated measures cases using mixed models in R:
 
 ::: {align="center"}
@@ -70,6 +71,7 @@ Split-plot design and repeated measures cases using mixed models in R:
 :::
 
 #### AgrometR
+
 Open code designed for gathering and processing data from digitized weather databases (e.g. daymet, NASAPOWER, CHIRPS):
 
 ::: {align="center"}
@@ -79,6 +81,7 @@ Open code designed for gathering and processing data from digitized weather data
 :::
 
 #### Machine learning
+
 Regression trees, random forest, and conditional random forest for crop yield forecast:
 
 ::: {align="center"}

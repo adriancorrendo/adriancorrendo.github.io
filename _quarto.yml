@@ -7,7 +7,7 @@ project:
 website:
   title: "AdrianCorrendo"
   navbar:
-    background: "#960f2b"
+    background: "#312244"
     left:
       - href: 01-index.qmd
         text: Home
@@ -30,13 +30,14 @@ website:
         href: http://bit.ly/3zpaXCo
   page-footer: 
     left: "<span> Developed by Adrian Correndo using [Quarto](https://quarto.org/). License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/). </span>"
-    background: light
+    background: dark
   twitter-card:
     creator: "@aacorrendo"
     
 format:
   html:
-    theme: yeti
+    theme: 
+      light: minty
     css: styles.css
     toc: true
     toc-title: ""
