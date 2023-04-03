@@ -137,7 +137,7 @@
     "href": "04-digitalops.html#tutorials--",
     "title": "Digital Resources",
     "section": "Tutorials - ",
-    "text": "Tutorials - \nRecorded sessions sharing codes designed for gathering data from digitized weather databases and data analysis using R"
+    "text": "Tutorials - \nA series of recorded sessions sharing programming codes applied to agriculture.\n\nTidy data analysis\nSplit-plot design and repeated measures cases using mixed models in R:\n\n\n\n\n\n\nAgrometR\nOpen code designed for gathering and processing data from digitized weather databases (e.g. daymet, NASAPOWER, CHIRPS):\n\n\n\n\n\n\nMachine learning\nRegression trees, random forest, and conditional random forest for crop yield forecast:"
   },
   {
     "objectID": "05-contact.html",

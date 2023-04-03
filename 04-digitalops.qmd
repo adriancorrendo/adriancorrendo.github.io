@@ -58,7 +58,10 @@ Data and codes publicly available
 
 ## Tutorials - ![](assets/images/YouTube_Logo.png){width="66" height="28"}
 
-Recorded sessions sharing codes designed for gathering data from digitized weather databases and data analysis using R
+A series of recorded sessions sharing programming codes applied to agriculture.
+
+#### Tidy data analysis
+Split-plot design and repeated measures cases using mixed models in R:
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KxGpacYhBT4" frameborder="0" allowfullscreen>
@@ -66,11 +69,17 @@ Recorded sessions sharing codes designed for gathering data from digitized weath
 </iframe>
 :::
 
+#### AgrometR
+Open code designed for gathering and processing data from digitized weather databases (e.g. daymet, NASAPOWER, CHIRPS):
+
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gJo5XUFtDPk" frameborder="0" allowfullscreen>
 
 </iframe>
 :::
+
+#### Machine learning
+Regression trees, random forest, and conditional random forest for crop yield forecast:
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/sE8VyX2XGII" frameborder="0" allowfullscreen>
