@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - "assets/resources/CV_Correndo_AUG-28-2022.pdf"
+    - "assets/resources/CV_Correndo_APR-2023.pdf"
 
 website:
   title: "AdrianCorrendo"
@@ -16,7 +16,7 @@ website:
       - href: 03-publications.qmd
         text: Publications
       - href: 04-digitalops.qmd
-        text: DigitalOps
+        text: Digital Resources
       - href: 05-contact.qmd
         text: Contact
     right:

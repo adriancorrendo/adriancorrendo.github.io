@@ -1,8 +1,8 @@
 ---
-title: "Digital Ops"
+title: "Digital Resources"
 ---
 
-Welcome to my Digital Ops section! 👋
+Welcome to my Digital Resources section! 👋
 
 Let's take a quick look to the latest updates on my digital tools projects.
 
@@ -16,21 +16,31 @@ Open-access software promoting the reproducibility of data processing and analys
 
 Web interfaces designed to facilitate the implementation of my packages, and to translate my research into decision-support tools.
 
-+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| #### [Soiltestcorr](https://ciampittilab.shinyapps.io/soiltestcorr/)                                            | #### [Metrica](https://ciampittilab.shinyapps.io/metrica/)     |
-|                                                                                                                 |                                                                |
-| ![](assets/images/shiny_soiltestcorr.png){width="300" height="200"}                                             | ![](assets/images/shiny_metrica.png){width="300" height="200"} |
-+=================================================================================================================+================================================================+
-| #### [Cornyield0N](https://ciampittilab.shinyapps.io/cornyield0N/)                                              | #### [DONMaiz](https://ciampittilab.shinyapps.io/DONMaiz/)     |
-|                                                                                                                 |                                                                |
-| ![](images/paste-39B54D97.png){width="364"}                                                                     | ![](images/paste-2E73617F.png){width="363"}                    |
-|                                                                                                                 |                                                                |
-| ###                                                                                                             |                                                                |
-+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
-| #### [Soybean Variable Seeding Rate Simulator](https://analytics.iasoybeans.com/cool-apps/SoybeanVRSsimulator/) |                                                                |
-|                                                                                                                 |                                                                |
-| ![](images/paste-2BEEBBAE.png)                                                                                  |                                                                |
-+-----------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------+
+::: columns
+::: {.column width="50%"}
+#### [Soiltestcorr](https://ciampittilab.shinyapps.io/soiltestcorr/)
+
+[![](assets/images/shiny_soiltestcorr.png){fig-align="left" width="300" height="200"}](https://ciampittilab.shinyapps.io/soiltestcorr/)
+
+#### [Cornyield0N](https://ciampittilab.shinyapps.io/cornyield0N/)
+
+[![](images/paste-39B54D97.png){fig-align="left" width="300"}](https://ciampittilab.shinyapps.io/cornyield0N/)
+
+#### [Soybean Var. Seed Rate Simulator](https://analytics.iasoybeans.com/cool-apps/SoybeanVRSsimulator/)
+
+[![](images/paste-2BEEBBAE.png){fig-align="left" width="300" height="200"}](https://analytics.iasoybeans.com/cool-apps/SoybeanVRSsimulator/)
+:::
+
+::: {.column width="50%"}
+#### [Metrica](https://ciampittilab.shinyapps.io/metrica/)
+
+[![](assets/images/shiny_metrica.png){fig-align="left" width="300" height="200"}](https://ciampittilab.shinyapps.io/metrica/)
+
+#### [DONMaiz](https://ciampittilab.shinyapps.io/DONMaiz/)
+
+[![](images/paste-2E73617F.png){fig-align="left" width="300" height="200"}](https://ciampittilab.shinyapps.io/DONMaiz/)
+:::
+:::
 
 ## [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/adriancorrendo) ![](assets/images/harvard_dataverse_logo.png){width="72" height="28"}
 
@@ -38,11 +48,18 @@ Data and codes publicly available
 
 [<img src="assets/images/harvard_dataverse.png" width="300" height="200"/>](https://dataverse.harvard.edu/dataverse/adriancorrendo)
 
+## [GitHub repositories](https://github.com/adriancorrendo/) 
+
+[![](assets/images/Screenshot%20GitHub.png){fig-align="left" width="300" height="200"}](https://github.com/adriancorrendo/)
+
 ## Tutorials - ![](assets/images/YouTube_Logo.png){width="66" height="28"}
 
-Recordings sharing codes designed for gathering data from digitalized weather databases and data analysis using R
+Recorded sessions sharing codes designed for gathering data from digitized weather databases and data analysis using R
 
-::: {#tidymixedmodels align =" \"center"}
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KxGpacYhBT4" frameborder="0" allowfullscreen>
+
+</iframe>
 :::
 
 ::: {align="center"}
