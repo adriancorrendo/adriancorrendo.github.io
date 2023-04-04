@@ -4,7 +4,7 @@
     "href": "01-index.html",
     "title": "Welcome",
     "section": "",
-    "text": "Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. I live with my wife (Milagros) and our little girl (Amelie) in Manhattan, Kansas, USA, where I obtained my Ph.D. in Agronomy in 2021.\nCurrently, I am a Postdoctoral Fellow at Kansas State University collaborating on various research projects, education, and outreach activities, with special focus on digital support tools for corn and soybean crops.\nMy mission is to substantially contribute to the development and transfer of science for sustainable farming systems.\nTeamwork is my favorite word, an essential part of my professional and personal philosophy. I work to inspire and support the future leaders of agriculture.\n\n\n\n\n\n\n\n\n\n\nI work to identify and promote best management practices for cropping systems at multiple scales. I heavily rely my work on applied statistics and reproducible programming to develop accessible and cross-scale digital tools that put modern data analytics (e.g. Machine Learning, Bayesian stats) to the service of our communities.\nOn my Career section you will find details on my professional life, experience, and interests.\nMy Publications section provides a summary the diverse type of literature material I have produced during my career.\nIf you’re interested in my digital developments, my Digital Resources section includes links to my R-packages ( soiltestcorr, metrica, XPolaris), Shinyapps (user-friendly interfaces), digital repositories, and YouTube tutorials.\n\n\n\nDownload CV:"
+    "text": "Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. I live with my wife (Milagros) and our little girl (Amelie) in Manhattan, Kansas, USA, where I obtained my Ph.D. in Agronomy in 2021.\nCurrently, I am a Postdoctoral Fellow at Kansas State University collaborating on various research projects, education, and outreach activities, with special focus on digital support tools for corn and soybean crops.\nMy mission is to substantially contribute to the development and transfer of science for sustainable farming systems.\nTeamwork is my favorite word, an essential part of my professional and personal philosophy. I work to inspire and support the future leaders of agriculture.\n\n\n\n\nI work to identify and promote best management practices for cropping systems at multiple scales. I heavily rely my work on applied statistics and reproducible programming to develop accessible and cross-scale digital tools that put modern data analytics (e.g. Machine Learning, Bayesian stats) to the service of our communities.\n\n\n\nOn my Career section you’ll find details on my professional life, experience, and interests.\nMy Publications section provides a summary the diverse type of literature material I have produced during my career.\nIf you’re interested in my digital developments, my Digital Resources section includes links to my R-packages ( soiltestcorr, metrica, XPolaris), Shinyapps (user-friendly interfaces), digital repositories, and YouTube tutorials.\nAt the Talks section you’ll find recorded presentations at a variety of conferences, symposiums, and meetings.\n\n\n\nDownload CV:"
   },
   {
     "objectID": "02-career.html",
@@ -140,8 +140,50 @@
     "text": "Tutorials - \nA series of recorded sessions sharing programming codes applied to agriculture.\n\nTidy data analysis\nSplit-plot design and repeated measures cases using mixed models in R:\n\n\n\n\n\n\nAgrometR\nOpen code designed for gathering and processing data from digitized weather databases (e.g. daymet, NASAPOWER, CHIRPS):\n\n\n\n\n\n\nMachine learning\nRegression trees, random forest, and conditional random forest for crop yield forecast:"
   },
   {
-    "objectID": "05-contact.html",
-    "href": "05-contact.html",
+    "objectID": "05-talks.html",
+    "href": "05-talks.html",
+    "title": "Talks",
+    "section": "",
+    "text": "Welcome to my presentations section! 👋\nHere you can get access to various recorded talks at conferences, symposiums, and meetings.\nLet’s take a look… 🎥"
+  },
+  {
+    "objectID": "05-talks.html#asa-cssa-sssa-meetings",
+    "href": "05-talks.html#asa-cssa-sssa-meetings",
+    "title": "Talks",
+    "section": "2022 ASA-CSSA-SSSA Meetings",
+    "text": "2022 ASA-CSSA-SSSA Meetings"
+  },
+  {
+    "objectID": "05-talks.html#asa-cssa-sssa-meetings-1",
+    "href": "05-talks.html#asa-cssa-sssa-meetings-1",
+    "title": "Talks",
+    "section": "2021 ASA-CSSA-SSSA Meetings",
+    "text": "2021 ASA-CSSA-SSSA Meetings"
+  },
+  {
+    "objectID": "05-talks.html#congreso-aapresid",
+    "href": "05-talks.html#congreso-aapresid",
+    "title": "Talks",
+    "section": "2017 CONGRESO AAPRESID",
+    "text": "2017 CONGRESO AAPRESID"
+  },
+  {
+    "objectID": "05-talks.html#seminario-cpia",
+    "href": "05-talks.html#seminario-cpia",
+    "title": "Talks",
+    "section": "2016 SEMINARIO CPIA",
+    "text": "2016 SEMINARIO CPIA"
+  },
+  {
+    "objectID": "05-talks.html#simposio-fertilidad",
+    "href": "05-talks.html#simposio-fertilidad",
+    "title": "Talks",
+    "section": "2015 SIMPOSIO FERTILIDAD",
+    "text": "2015 SIMPOSIO FERTILIDAD"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
     "title": "Contact me",
     "section": "",
     "text": "correndo@ksu.edu\n 2014E Throckmorton PSC, 1712 Claflin Rd., Manhattan, KS-66506, USA.\n\n\nTwitter\n\nLinkedin\n\n GitHub\n\n\n\n\nORCID\n\nGoogleScholar\n\nResearchGate"
