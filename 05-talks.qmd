@@ -35,18 +35,23 @@ Let's take a look... 🎥
 ## 2017 CONGRESO AAPRESID
 
 ::: {align="center"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hYnMkX-DSVU?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hYnMkX-DSVU?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 :::
 
 ## 2016 SEMINARIO CPIA
 
 ::: {align="center"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pyBExlgeteM?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pyBExlgeteM?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
 </iframe>
 :::
 
 ## 2015 SIMPOSIO FERTILIDAD
 
 ::: {align="center"}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t3PzJT263aA?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t3PzJT263aA?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
 :::
