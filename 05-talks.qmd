@@ -1,0 +1,52 @@
+---
+title: "Talks"
+format:
+  html:
+    fontsize: 0.8em
+    linestretch: 1
+---
+
+Welcome to my presentations section! 👋
+
+Here you can get access to various recorded talks at conferences, symposiums, and meetings.
+
+Let's take a look... 🎥
+
+## 2022 ASA-CSSA-SSSA Meetings
+
+::: {align="left"}
+[![](images/Screenshot%202023-04-04%20000156.png){fig-align="left" width="560"}](https://scisoc.confex.com/scisoc/2022am/videogateway.cgi/id/43596?recordingid=43596&iframe=1)
+:::
+
+::: {align="left"}
+[![](images/Screenshot%202023-04-03%20234320.png){fig-align="left" width="560" height="315"}](https://scisoc.confex.com/scisoc/2022am/videogateway.cgi/id/44278?recordingid=44278&iframe=1)
+:::
+
+## 2021 ASA-CSSA-SSSA Meetings
+
+::: {align="left"}
+[![](images/Screenshot%202023-04-04%20000551.png){fig-align="left" width="560"}](https://scisoc.confex.com/scisoc/2021am/videogateway.cgi/id/41963?recordingid=41963&iframe=1)
+:::
+
+::: {align="left"}
+[![](images/Screenshot%202023-04-04%20000746.png){fig-align="left" width="560"}](https://scisoc.confex.com/scisoc/2021am/videogateway.cgi/id/42244?recordingid=42244&iframe=1)
+:::
+
+## 2017 CONGRESO AAPRESID
+
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hYnMkX-DSVU?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
+
+## 2016 SEMINARIO CPIA
+
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pyBExlgeteM?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen> 
+</iframe>
+:::
+
+## 2015 SIMPOSIO FERTILIDAD
+
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/t3PzJT263aA?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+:::
