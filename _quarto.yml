@@ -15,7 +15,7 @@ website:
         text: Career
       - href: 03-publications.qmd
         text: Publications
-      - href: 04-digitalops.qmd
+      - href: 04-digital.qmd
         text: Digital Resources
       - href: 05-talks.qmd
         text: Talks

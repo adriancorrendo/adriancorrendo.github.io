@@ -12,6 +12,14 @@ Here you can get access to various recorded talks at conferences, symposiums, an
 
 Let's take a look... 🎥
 
+## 2023 Simposio Fertilidad 2023 (Spanish)
+
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2wtuNGJvTA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+
 ## 2022 ASA-CSSA-SSSA Meetings
 
 ::: {align="left"}
