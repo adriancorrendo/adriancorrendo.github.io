@@ -8,7 +8,7 @@ format:
 
 # 👁️‍ Mission & Vision
 
-I am an agronomist with +10 years of experience in research and stakeholders education, underpinning the development and recommendation of the best crop management practices for productive, efficient, and environmentally safe farming systems. My passion and expertise are in cropping systems, soil fertility and crop nutrition, and applied computer programming to put modern data analytics and digital solutions to the service of agriculture. I aim to play an active role in transdisciplinary projects that gather diverse agricultural stakeholders.
+I am an agronomist with experience in research and stakeholders education, underpinning the development and recommendation of the best crop management practices for productive, efficient, and environmentally safe farming systems. My passion and expertise are in cropping systems, soil fertility and crop nutrition, and applied computer programming to put modern data analytics and digital solutions to the service of agriculture. I aim to play an active role in transdisciplinary projects that gather diverse agricultural stakeholders.
 
 ## 🎓Education
 
@@ -34,25 +34,29 @@ A great crop hides a whole story of questions underneath. Curiosity drives farme
 
 ## Postdoctoral Fellow - Digital Agronomy
 
-### 2022 - ongoing.
+### 2022 - 2023.
 
-{{< fa location-dot >}} Department of Agronomy, Kansas State University
+{{< fa location-dot >}} Department of Agronomy, Kansas State University, Kansas, United States.
 
 *Description*: Research and Extension on sustainable agriculture and resilience of farming systems. Research duties include applied geo-spatial and machine learning analysis, development of digital tools, literature reviews, preparation of reports, scientific manuscripts, and professional presentations. Collaborator of the Digital Tools-Farming Systems and Geospatial consortium (SIIL-USAID, https://digitalconsortium.wixsite.com/dgfsc) to advance the development of digital tools for smallholder farmers around the globe. Extension duties include field days, workshops, and corn-soybean schools for farmers. Supervisor: Dr. Ignacio Ciampitti.
 
 ## Guest Lecturer
 
+### Fall 2023
+
+{{< fa location-dot >}} College of Agriculture, Universidad Nacional de Mar del Plata, Argentina.
+
+Invited lecturer on topic: "Calibracion based on soil testing". Course "Soil Fertility and Fertilizers", Graduate Program in Agricultural Science. Course Instructor: Dr. Nahuel Reussi Calvo.
+
 ### Spring 2022
 
-{{< fa location-dot >}} College of Agriculture, Kansas State University
+{{< fa location-dot >}} College of Agriculture, Kansas State University, Kansas, United States.
 
 Invited lecturer. On-Farm Research, Challenges and Opportunities. AGRON-655, Site-Specific Agriculture. Course Instructor: Dr. Jeffrey Siegfried.
 
-## Guest Lecturer
-
 ### Fall 2021
 
-{{< fa location-dot >}} College of Agriculture, Universidad Católica de Córdoba
+{{< fa location-dot >}} College of Agriculture, Universidad Católica de Córdoba, Argentina.
 
 Invited lecturer on soil P fertility and crop P nutrition management. Certificate in Precision Agriculture. Director: Ing. Agr. Esteban Tronfi. Coordinator: Ing. Agr. Franco Vizzio.
 

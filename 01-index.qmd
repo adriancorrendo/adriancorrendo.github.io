@@ -10,14 +10,14 @@ format:
 
 ::: columns
 ::: {.column width="33%"}
-![](images/Adrian%20Correndo-KSU.jpg){fig-align="center" width="295"}
+![](images/me.jpg){fig-align="center" width="309"}
 :::
 
 ::: {.column width="2%"}
 :::
 
 ::: {.column width="65%"}
-Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. I live with my wife (Milagros) and our little girl (Amelie) in Manhattan, Kansas, USA, where I obtained my Ph.D. in Agronomy in 2021.
+Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. I live with my wife (Milagros) and our little girls (Amelie, and Sofia) in Manhattan, Kansas, USA, where I obtained my Ph.D. in Agronomy in 2021.
 
 Currently, I am a Postdoctoral Fellow at Kansas State University collaborating on various research projects, education, and outreach activities, with special focus on digital support tools for corn and soybean crops.
 
