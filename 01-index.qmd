@@ -17,13 +17,13 @@ format:
 :::
 
 ::: {.column width="65%"}
-Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. I live with my wife (Milagros) and our little girls (Amelie, and Sofia) in Manhattan, Kansas, USA, where I obtained my Ph.D. in Agronomy in 2021.
+Hi, there! My name is Adrian Correndo. I was born and raised in Buenos Aires, Argentina. I live with my wife and our daugthers in Guelph, ON, Canada, where I work for the Department of Plant Agriculture at the [University of Guelph](https://www.plant.uoguelph.ca) as an Assistant Professor and the Research Chair for the The Pick Family Chair in Sustainable Cropping Systems. 
 
-Currently, I am a Postdoctoral Fellow at Kansas State University collaborating on various research projects, education, and outreach activities, with special focus on digital support tools for corn and soybean crops.
+My mission is to develop and evaluate cropping systems that effectively deal with the challenge of producing more food, fuel, and fiber without degrading our natural resources. On this endeavor, I perform research, teaching, and outreach activities for Ontario farmers and agriculture stakeholders.
 
-My mission is to substantially contribute to the development and transfer of science for sustainable farming systems.
+One of my favorite parts of this role is maintaining and leveraging the value and legacy of multiple long-term trials at the Elora Research Station, where management practices such as tillage, crop rotation, cover crops, and fertilization management are the focus of study.
 
-Teamwork is my favorite word, an essential part of my professional and personal philosophy. I work to inspire and support the future leaders of agriculture.
+Teamwork and mentoring, an essential part of my professional and personal philosophy. I work to inspire and support the future leaders of agriculture.
 :::
 :::
 
