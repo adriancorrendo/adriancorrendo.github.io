@@ -7,7 +7,7 @@ project:
 website:
   title: "AdrianCorrendo"
   navbar:
-    background: "#284b63"
+    background: "#899d78"
     left:
       - href: 01-index.qmd
         text: Home
@@ -19,7 +19,7 @@ website:
         text: Digital Resources
       - href: 05-talks.qmd
         text: Talks
-      - href: contact.qmd
+      - href: 06-contact.qmd
         text: Contact
     right:
       - icon: github

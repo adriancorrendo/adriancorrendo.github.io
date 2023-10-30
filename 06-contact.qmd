@@ -6,9 +6,9 @@ format:
     linestretch: 1
 ---
 
-{{< fa envelope >}} correndo\@ksu.edu
+{{< fa envelope >}} acorrend\@uoguelph.ca
 
-{{< fa map-pin >}} 2014E Throckmorton PSC, 1712 Claflin Rd., Manhattan, KS-66506, USA.
+{{< fa map-pin >}} Rm 226 Crop Science Bldg, 50 Stone Rd E, Guelph, ON-N1G 2W1, Canada.
 
 ::: columns
 ::: {.column width="33%" align="center"}
