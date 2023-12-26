@@ -30,9 +30,9 @@ A great crop hides a whole story of questions underneath. Curiosity drives farme
 
 -   **Education**: Leaders of the farming of the future require transdisciplinary work and education that provides them the tools to efficiently utilize multiple data sources for decision-making.
 
-# ![](assets/images/briefcase-solid.svg){width="30"} Experience
+# 👨‍🔬 Research Experience
 
-## Assistant Professor - Pick Family Chair in Sustainable Cropping Systems
+## Assistant Professor - Pick Family Research Chair in Sustainable Cropping Systems
 
 ### 2023.
 
@@ -47,26 +47,6 @@ A great crop hides a whole story of questions underneath. Curiosity drives farme
 {{< fa location-dot >}} Department of Agronomy, Kansas State University, Kansas, United States.
 
 *Description*: Research and Extension on sustainable agriculture and resilience of farming systems. Research duties include applied geo-spatial and machine learning analysis, development of digital tools, literature reviews, preparation of reports, scientific manuscripts, and professional presentations. Collaborator of the Digital Tools-Farming Systems and Geospatial consortium (SIIL-USAID, https://digitalconsortium.wixsite.com/dgfsc) to advance the development of digital tools for smallholder farmers around the globe. Extension duties include field days, workshops, and corn-soybean schools for farmers. Supervisor: Dr. Ignacio Ciampitti.
-
-## Guest Lecturer
-
-### Fall 2023
-
-{{< fa location-dot >}} College of Agriculture, Universidad Nacional de Mar del Plata, Argentina.
-
-Invited lecturer on topic: "Calibracion based on soil testing". Course "Soil Fertility and Fertilizers", Graduate Program in Agricultural Science. Course Instructor: Dr. Nahuel Reussi Calvo.
-
-### Spring 2022
-
-{{< fa location-dot >}} College of Agriculture, Kansas State University, Kansas, United States.
-
-Invited lecturer. On-Farm Research, Challenges and Opportunities. AGRON-655, Site-Specific Agriculture. Course Instructor: Dr. Jeffrey Siegfried.
-
-### Fall 2021
-
-{{< fa location-dot >}} College of Agriculture, Universidad Católica de Córdoba, Argentina.
-
-Invited lecturer on soil P fertility and crop P nutrition management. Certificate in Precision Agriculture. Director: Ing. Agr. Esteban Tronfi. Coordinator: Ing. Agr. Franco Vizzio.
 
 ## Graduate Research Assistant
 
@@ -131,3 +111,43 @@ Soil Fertility and Fertilizers Department. College of Agriculture, University of
 {{< fa location-dot >}} IFEVA. College of Agriculture, University of Buenos Aires.
 
 Field work assistant in ecology experimental plots. Grassland evaluation and installation of field experiment. Place: Estancia "San Claudio" Carlos Casares. Supervisors: Dr. Isabel Miranda, and Dr. Enrique J. Chaneton.
+
+# 📚 Teaching Experience
+
+## Instructor
+
+### Winter 2024
+
+{{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Ontario, Canada.
+
+CROP\*3300 - "Grain Crops"
+
+Undergraduate Program in Agricultural Science. Credits: 0.50. FTE: 0.50.
+
+### Fall 2023
+
+{{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Ontario, Canada.
+
+CROP\*3310 - "Protein and Oilseed Crops"
+
+Undergraduate Program in Agricultural Science. Credits: 0.50. FTE: 0.20.
+
+## Guest Lecturer
+
+### Fall 2023
+
+{{< fa location-dot >}} College of Agriculture, Universidad Nacional de Mar del Plata, Argentina.
+
+Invited lecturer on topic: "Calibracion based on soil testing". Course "Soil Fertility and Fertilizers", Graduate Program in Agricultural Science. Course Instructor: Dr. Nahuel Reussi Calvo.
+
+### Spring 2022
+
+{{< fa location-dot >}} College of Agriculture, Kansas State University, Kansas, United States.
+
+Invited lecturer. On-Farm Research, Challenges and Opportunities. AGRON-655, Site-Specific Agriculture. Course Instructor: Dr. Jeffrey Siegfried.
+
+### Fall 2021
+
+{{< fa location-dot >}} College of Agriculture, Universidad Católica de Córdoba, Argentina.
+
+Invited lecturer on soil P fertility and crop P nutrition management. Certificate in Precision Agriculture. Director: Ing. Agr. Esteban Tronfi. Coordinator: Ing. Agr. Franco Vizzio.

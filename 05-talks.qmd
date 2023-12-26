@@ -12,6 +12,14 @@ Here you can get access to various recorded talks at conferences, symposiums, an
 
 Let's take a look... 🎥
 
+## Ciencia de los datos para decision en manejo de nutrientes (Spanish)
+
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TcbqgSGLMBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
+
+</iframe>
+:::
+
 ## 2023 Simposio Fertilidad 2023 (Spanish)
 
 ::: {align="center"}
