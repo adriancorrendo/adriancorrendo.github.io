@@ -60,9 +60,17 @@ Data and codes publicly available
 
 A series of recorded sessions sharing programming codes applied to agriculture.
 
+#### AgHackathon 2023 | Acessing Weahter Data with R
+
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r38NfwZcZPQ" frameborder="0" allowfullscreen>
+
+</iframe>
+:::
+
 #### Tidy data analysis
 
-Split-plot design and repeated measures cases using mixed models in R:
+Split-plot design and repeated measures cases using linear mixed models in R:
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KxGpacYhBT4" frameborder="0" allowfullscreen>

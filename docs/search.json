@@ -4,56 +4,56 @@
     "href": "05-talks.html",
     "title": "Talks",
     "section": "",
-    "text": "Welcome to my presentations section! 👋\nHere you can get access to various recorded talks at conferences, symposiums, and meetings.\nLet’s take a look… 🎥"
+    "text": "Welcome to my presentations section! 👋\nHere you can get access to several recorded talks at conferences, symposiums, and meetings.\nLet’s take a look… 🎥"
   },
   {
     "objectID": "05-talks.html#ciencia-de-los-datos-para-decision-en-manejo-de-nutrientes-spanish",
     "href": "05-talks.html#ciencia-de-los-datos-para-decision-en-manejo-de-nutrientes-spanish",
     "title": "Talks",
-    "section": "Ciencia de los datos para decision en manejo de nutrientes (Spanish)",
-    "text": "Ciencia de los datos para decision en manejo de nutrientes (Spanish)"
+    "section": "2023 | Ciencia de los datos para decision en manejo de nutrientes (Spanish)",
+    "text": "2023 | Ciencia de los datos para decision en manejo de nutrientes (Spanish)"
   },
   {
     "objectID": "05-talks.html#simposio-fertilidad-2023-spanish",
     "href": "05-talks.html#simposio-fertilidad-2023-spanish",
     "title": "Talks",
-    "section": "2023 Simposio Fertilidad 2023 (Spanish)",
-    "text": "2023 Simposio Fertilidad 2023 (Spanish)"
+    "section": "2023 | Simposio Fertilidad 2023 (Spanish)",
+    "text": "2023 | Simposio Fertilidad 2023 (Spanish)"
   },
   {
     "objectID": "05-talks.html#asa-cssa-sssa-meetings",
     "href": "05-talks.html#asa-cssa-sssa-meetings",
     "title": "Talks",
-    "section": "2022 ASA-CSSA-SSSA Meetings",
-    "text": "2022 ASA-CSSA-SSSA Meetings"
+    "section": "2022 | ASA-CSSA-SSSA Meetings",
+    "text": "2022 | ASA-CSSA-SSSA Meetings"
   },
   {
     "objectID": "05-talks.html#asa-cssa-sssa-meetings-1",
     "href": "05-talks.html#asa-cssa-sssa-meetings-1",
     "title": "Talks",
-    "section": "2021 ASA-CSSA-SSSA Meetings",
-    "text": "2021 ASA-CSSA-SSSA Meetings"
+    "section": "2021 | ASA-CSSA-SSSA Meetings",
+    "text": "2021 | ASA-CSSA-SSSA Meetings"
   },
   {
-    "objectID": "05-talks.html#congreso-aapresid",
-    "href": "05-talks.html#congreso-aapresid",
+    "objectID": "05-talks.html#congreso-aapresid-spanish",
+    "href": "05-talks.html#congreso-aapresid-spanish",
     "title": "Talks",
-    "section": "2017 CONGRESO AAPRESID",
-    "text": "2017 CONGRESO AAPRESID"
+    "section": "2017 | Congreso Aapresid (Spanish)",
+    "text": "2017 | Congreso Aapresid (Spanish)"
   },
   {
-    "objectID": "05-talks.html#seminario-cpia",
-    "href": "05-talks.html#seminario-cpia",
+    "objectID": "05-talks.html#cpia-seminario-spanish",
+    "href": "05-talks.html#cpia-seminario-spanish",
     "title": "Talks",
-    "section": "2016 SEMINARIO CPIA",
-    "text": "2016 SEMINARIO CPIA"
+    "section": "2016 | CPIA Seminario (Spanish)",
+    "text": "2016 | CPIA Seminario (Spanish)"
   },
   {
-    "objectID": "05-talks.html#simposio-fertilidad",
-    "href": "05-talks.html#simposio-fertilidad",
+    "objectID": "05-talks.html#simposio-fertilidad-spanish",
+    "href": "05-talks.html#simposio-fertilidad-spanish",
     "title": "Talks",
-    "section": "2015 SIMPOSIO FERTILIDAD",
-    "text": "2015 SIMPOSIO FERTILIDAD"
+    "section": "2015 | Simposio Fertilidad (Spanish)",
+    "text": "2015 | Simposio Fertilidad (Spanish)"
   },
   {
     "objectID": "04-digital.html",
@@ -95,7 +95,7 @@
     "href": "04-digital.html#tutorials--",
     "title": "Digital Resources",
     "section": "Tutorials - ",
-    "text": "Tutorials - \nA series of recorded sessions sharing programming codes applied to agriculture.\n\nTidy data analysis\nSplit-plot design and repeated measures cases using mixed models in R:\n\n\n\n\n\n\nAgrometR\nOpen code designed for gathering and processing data from digitized weather databases (e.g. daymet, NASAPOWER, CHIRPS):\n\n\n\n\n\n\nMachine learning\nRegression trees, random forest, and conditional random forest for crop yield forecast:"
+    "text": "Tutorials - \nA series of recorded sessions sharing programming codes applied to agriculture.\n\nAgHackathon 2023 | Acessing Weahter Data with R\n\n\n\n\n\n\nTidy data analysis\nSplit-plot design and repeated measures cases using linear mixed models in R:\n\n\n\n\n\n\nAgrometR\nOpen code designed for gathering and processing data from digitized weather databases (e.g. daymet, NASAPOWER, CHIRPS):\n\n\n\n\n\n\nMachine learning\nRegression trees, random forest, and conditional random forest for crop yield forecast:"
   },
   {
     "objectID": "06-contact.html",
