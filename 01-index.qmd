@@ -10,7 +10,7 @@ format:
 
 ::: columns
 ::: {.column width="33%"}
-![](images/me.jpg){fig-align="center" width="309"}
+![](images/me_UoG_1.JPG){fig-align="center"}
 :::
 
 ::: {.column width="2%"}

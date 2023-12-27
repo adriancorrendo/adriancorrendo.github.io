@@ -11,7 +11,7 @@ format:
 
 ### Total (26)
 
-1.  Giordano, N., Sadras, V.O., Correndo, A.A., Lollato, R.P. 2023. Cultivar-specific phenotypic plasticity of yield and grain protein concentration in response to nitrogen in winter wheat. Field Crops Res. 306, 109202. \<<https://doi.org/10.1016/j.fcr.2023.109202>\>
+1.  Giordano, N., Sadras, V.O., Correndo, A.A., Lollato, R.P. 2023. Cultivar-specific phenotypic plasticity of yield and grain protein concentration in response to nitrogen in winter wheat. Field Crops Res. 306, 109202. <https://doi.org/10.1016/j.fcr.2023.109202>
 
 2.  Rodriguez, M., Vargas, J., **Correndo, A.**, Carcedo, A., Carciochi, W., Barbieri, P., & Ciampitti, I.A. A meta-analysis of hairy vetch as a previous cover crop for maize. Heliyon 9 (2023), e22621. <https://doi.org/10.1016/j.heliyon.2023.e22621>
 

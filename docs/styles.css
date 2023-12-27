@@ -2,7 +2,7 @@
 
 @import 'https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible&display=swap';
 
-$link-color: #197278;
+$link-color: #d1ad41;
 
 /* unvisited link */
 a:link {
@@ -11,12 +11,12 @@ a:link {
 
 /* visited link */
 a:visited {
-  color: #00a896;
+  color: #5f0f40;
 }
 
 /* mouse over link */
 a:hover {
-  color: #e84855;
+  color: #ef476f;
 }
 
 /* selected link */
