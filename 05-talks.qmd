@@ -12,7 +12,15 @@ Here you can get access to several recorded talks at conferences, symposiums, an
 
 Let's take a look... 🎥
 
-## 2023 | Ciencia de los datos para decision en manejo de nutrientes (Spanish)
+## 2024 \| Practical tools to share agricutlural research data & results
+
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aRph0jWv3Ek?si=7LMZHQFoBQEGu9-t&amp;start=7043" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+</iframe>
+:::
+
+
+## 2023 \| Ciencia de los datos para decision en manejo de nutrientes (Spanish)
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TcbqgSGLMBY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
@@ -20,7 +28,7 @@ Let's take a look... 🎥
 </iframe>
 :::
 
-## 2023 | Simposio Fertilidad 2023 (Spanish)
+## 2023 \| Simposio Fertilidad 2023 (Spanish)
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/2wtuNGJvTA8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
@@ -28,7 +36,7 @@ Let's take a look... 🎥
 </iframe>
 :::
 
-## 2022 | ASA-CSSA-SSSA Meetings
+## 2022 \| ASA-CSSA-SSSA Meetings
 
 ::: {align="left"}
 [![](images/Screenshot%202023-04-04%20000156.png){fig-align="left" width="560"}](https://scisoc.confex.com/scisoc/2022am/videogateway.cgi/id/43596?recordingid=43596&iframe=1)
@@ -38,7 +46,7 @@ Let's take a look... 🎥
 [![](images/Screenshot%202023-04-03%20234320.png){fig-align="left" width="560" height="315"}](https://scisoc.confex.com/scisoc/2022am/videogateway.cgi/id/44278?recordingid=44278&iframe=1)
 :::
 
-## 2021 | ASA-CSSA-SSSA Meetings
+## 2021 \| ASA-CSSA-SSSA Meetings
 
 ::: {align="left"}
 [![](images/Screenshot%202023-04-04%20000551.png){fig-align="left" width="560"}](https://scisoc.confex.com/scisoc/2021am/videogateway.cgi/id/41963?recordingid=41963&iframe=1)
@@ -48,7 +56,7 @@ Let's take a look... 🎥
 [![](images/Screenshot%202023-04-04%20000746.png){fig-align="left" width="560"}](https://scisoc.confex.com/scisoc/2021am/videogateway.cgi/id/42244?recordingid=42244&iframe=1)
 :::
 
-## 2017 | Congreso Aapresid (Spanish)
+## 2017 \| Congreso Aapresid (Spanish)
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hYnMkX-DSVU?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
@@ -56,7 +64,7 @@ Let's take a look... 🎥
 </iframe>
 :::
 
-## 2016 | CPIA Seminario (Spanish)
+## 2016 \| CPIA Seminario (Spanish)
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/pyBExlgeteM?start=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
@@ -64,7 +72,7 @@ Let's take a look... 🎥
 </iframe>
 :::
 
-## 2015 | Simposio Fertilidad (Spanish)
+## 2015 \| Simposio Fertilidad (Spanish)
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/t3PzJT263aA?start=36" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>

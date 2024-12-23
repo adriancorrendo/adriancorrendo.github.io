@@ -8,9 +8,12 @@ format:
 
 # 🙋🏻 Bio
 
-::: columns
-::: row
-![](images/me_UoG_1.JPG){fig-align="center"}
+::::::: columns
+:::::: row
+::: {align="center"}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/stL5mwCNn8k?si=SYsFLc9J2C8E5kQH&amp;start=6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
+</iframe>
 :::
 
 ::: {.column width="2%"}
@@ -25,7 +28,7 @@ One of my favorite parts of this role is maintaining and leveraging the value an
 
 Teamwork and mentoring, an essential part of my professional and personal philosophy. I work to inspire and support the future leaders of agriculture.
 :::
-:::
+::::::
 
 ## 👷🏻What do I do?
 
@@ -46,3 +49,4 @@ At the [Talks](https://adriancorrendo.github.io/05-talks.html) section you'll fi
 ## 📂 CV
 
 Download CV: [{{< fa file-pdf >}}](https://raw.githubusercontent.com/adriancorrendo/adriancorrendo.github.io/main/assets/resources/CV_Correndo_APR-03-2023.pdf){#CV}
+:::::::

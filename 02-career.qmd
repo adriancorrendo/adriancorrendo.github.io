@@ -116,13 +116,47 @@ Field work assistant in ecology experimental plots. Grassland evaluation and ins
 
 ## Instructor
 
+### Winter 2025
+
+{{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Ontario, Canada.
+
+PLNT\*6800 - "Special Topics in Plant Science: Reproducible Ag Data Science with R"
+
+Graduate Program in Plant Agriculture. Credits: 0.50. Percentage: 100%.
+
+{{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Ontario, Canada.
+
+CROP\*4220 - "Cropping Systems"
+
+Undergraduate Program in Agricultural Science. Credits: 0.50. Percentage: 50%.
+
+### Fall 2024
+
+{{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Ontario, Canada.
+
+CROP\*3310 - "Protein and Oilseed Crops"
+
+Undergraduate Program in Agricultural Science. Credits: 0.50. Percentage: 100%.
+
+{{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Ontario, Canada.
+
+CROP\*4260 - "Crop Science Field Trip"
+
+Undergraduate Program in Agricultural Science. Credits: 0.50. Percentage: 50%.
+
+{{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Ontario, Canada.
+
+CROP\*6450 - "Plant Agriculture International Field Trip"
+
+Undergraduate Program in Agricultural Science. Credits: 0.50. Percentage: 50%.
+
 ### Winter 2024
 
 {{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Ontario, Canada.
 
 CROP\*3300 - "Grain Crops"
 
-Undergraduate Program in Agricultural Science. Credits: 0.50. FTE: 0.50.
+Undergraduate Program in Agricultural Science. Credits: 0.50. Percentage: 50%.
 
 ### Fall 2023
 
@@ -130,9 +164,15 @@ Undergraduate Program in Agricultural Science. Credits: 0.50. FTE: 0.50.
 
 CROP\*3310 - "Protein and Oilseed Crops"
 
-Undergraduate Program in Agricultural Science. Credits: 0.50. FTE: 0.20.
+Undergraduate Program in Agricultural Science. Credits: 0.50. Percentage: 20%.
 
 ## Guest Lecturer
+
+### Fall 2024
+
+{{< fa location-dot >}} Ontario Agricultural College, University of Guelph, Guelph, Ontario, Canada.
+
+Invited lecturer on topic: "Reproducible Data Science with R". Course "Applied Ag Stats", Graduate Program in Agricultural Science. Course Instructor: Dr. Amir Bazrgar.
 
 ### Fall 2023
 
