@@ -2,7 +2,7 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - "assets/resources/cv_correndoadrian_dec2024.pdf"
+    - "assets/resources/cv_correndoadrian_2024.pdf"
 
 website:
   title: "Adrian Correndo"

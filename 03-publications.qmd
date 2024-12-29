@@ -9,7 +9,7 @@ format:
 ::: panel-tabset
 # 📑Refereed
 
-### Total (29)
+### Total (30)
 
 1.  Abdala, L., Tamagno, S., Ruiz, A., Schwalbert, R.A., **Correndo, A.A.**, Martin, N. 2025. Yield environment changes the ranking of soybean genotypes. *Field Crops Res.* 321, 109661. <https://doi.org/10.1016/j.fcr.2024.109661>
 
@@ -23,51 +23,53 @@ format:
 
 6.  Hernandez, C.H., **Correndo, A.A.**, Kyveryga, P., Prestholt, A., Ciampitti, I.A., 2023. On-farm soybean seed protein and oil prediction using satellite data. *Comput. Electron. Agric.* 212, 108096. <https://doi.org/10.1016/j.compag.2023.108096>
 
-7.  Antunes de Almeida, L.F., **Correndo, A.A.**, Ciampitti. I.A., et al., 2023. Soybean yield response to nitrogen and sulfur fertilization in the United States: contribution of soil N and N fixation processes. *Eur. J. Agron.* 145, 126791. <https://doi.org/10.1016/j.eja.2023.126791>
+7.  Toribio, M., Iglesias, M. P., Correndo, A., Wyngaard, N. ., & Reussi Calvo, N. 2023. Determinants of ammonia volatilization losses and their effect on maize yield. Ciencia Del Suelo, 41(2), 193–205. <https://www.ojs.suelos.org.ar/index.php/cds/article/view/801>
 
-8.  Carcedo, A.J., Viera N., Marziotte, L., **Correndo, A.A.**, Alemo, A., Vara Prasad, P.V., Min, D., Stewart, Z.P., Faye, A., and Ciampitti, I.A., 2023. The urgency for investment on local data for advancing options for improving crop productivity and climate resilience assessments in Africa: a review for APSIM crop modeling. *Env. Modell. Soft* 161, 105633. <https://doi.org/10.1016/j.envsoft.2023.105633>
+8.  Antunes de Almeida, L.F., **Correndo, A.A.**, Ciampitti. I.A., et al., 2023. Soybean yield response to nitrogen and sulfur fertilization in the United States: contribution of soil N and N fixation processes. *Eur. J. Agron.* 145, 126791. <https://doi.org/10.1016/j.eja.2023.126791>
 
-9.  Moro Rosso, L.H., de Borja Reis, A.F., Tamagno, S., **Correndo, A.A.**, Vara Prasad, P.V., Ciampitti. I.A., 2023. Temporal variation of soil N supply defines N fixation in soybeans. *Eur. J. Agron* 144, 126745. <https://doi.org/10.1016/j.eja.2023.126745>
+9.  Carcedo, A.J., Viera N., Marziotte, L., **Correndo, A.A.**, Alemo, A., Vara Prasad, P.V., Min, D., Stewart, Z.P., Faye, A., and Ciampitti, I.A., 2023. The urgency for investment on local data for advancing options for improving crop productivity and climate resilience assessments in Africa: a review for APSIM crop modeling. *Env. Modell. Soft* 161, 105633. <https://doi.org/10.1016/j.envsoft.2023.105633>
 
-10. **Correndo, A.A.**, Pearce, A., Bolster, C., Spargo, J., Osmond, D., and Ciampitti, I.A., 2023. The soiltestcorr R package: An accessible framework for reproducible correlation analysis of crop yield and soil test data. Submitted to *SoftwareX* 21, 101275, <https://doi.org/10.1016/j.softx.2022.101275>
+10. Moro Rosso, L.H., de Borja Reis, A.F., Tamagno, S., **Correndo, A.A.**, Vara Prasad, P.V., Ciampitti. I.A., 2023. Temporal variation of soil N supply defines N fixation in soybeans. *Eur. J. Agron* 144, 126745. <https://doi.org/10.1016/j.eja.2023.126745>
 
-11. Bolster, C., **Correndo, A.A.**, Pearce, A., Spargo, J., Osmond, D., and Slaton, N., 2023. A spreadsheet for determining critical soil test values using the modified arcsine-log calibration curve. Submitted to *Soil Sci. Soc. Am. J.* 87, 182-189, <https://doi.org/10.1002/saj2.20498>
+11. **Correndo, A.A.**, Pearce, A., Bolster, C., Spargo, J., Osmond, D., and Ciampitti, I.A., 2023. The soiltestcorr R package: An accessible framework for reproducible correlation analysis of crop yield and soil test data. Submitted to *SoftwareX* 21, 101275, <https://doi.org/10.1016/j.softx.2022.101275>
 
-12. **Correndo, A.A.**, Moro Rosso, L.H., Hernandez, C.H., Bastos, L.M., Nieto, L., Holzworth, D., Ciampitti, I.A., 2022. metrica: an R package to evaluate prediction performance of regression and classification point-forecast models. Journal of Open Source Software, 7(79), 4655, <https://joss.theoj.org/papers/10.21105/joss.04655>
+12. Bolster, C., **Correndo, A.A.**, Pearce, A., Spargo, J., Osmond, D., and Slaton, N., 2023. A spreadsheet for determining critical soil test values using the modified arcsine-log calibration curve. Submitted to *Soil Sci. Soc. Am. J.* 87, 182-189, <https://doi.org/10.1002/saj2.20498>
 
-13. Secchi, M.A., **Correndo, A.A.**, Stamm, M., Durrett , T., Vara Prasad, P.V., Messina, C., and Ciampitti , I.A., 202#. Suitability of different environments for winter canola oil production in the United States of America. *Field Crops Res*. 287, 108658. <https://doi.org/10.1016/j.fcr.2022.108658>
+13. **Correndo, A.A.**, Moro Rosso, L.H., Hernandez, C.H., Bastos, L.M., Nieto, L., Holzworth, D., Ciampitti, I.A., 2022. metrica: an R package to evaluate prediction performance of regression and classification point-forecast models. Journal of Open Source Software, 7(79), 4655, <https://joss.theoj.org/papers/10.21105/joss.04655>
 
-14. **Correndo, A.A.**, McArtor, B., Prestholt, A., Hernandez, C., Kyveryga, P., and Ciampitti , I.A., 2022. Interactive Soybean Variable-Rate Seeding Simulator for Farmers. *Agron. J.* 114, 3554-3565, <https://doi.org/10.1002/agj2.21181>
+14. Secchi, M.A., **Correndo, A.A.**, Stamm, M., Durrett , T., Vara Prasad, P.V., Messina, C., and Ciampitti , I.A., 202#. Suitability of different environments for winter canola oil production in the United States of America. *Field Crops Res*. 287, 108658. <https://doi.org/10.1016/j.fcr.2022.108658>
 
-15. Sadras, V.O., Giordano, N., **Correndo, A.A.**, Cossani, M., Ferreyra, J.M., Caviglia, O.P., Coulter, J.A., Ciampitti , I.A., and Lollato,R.A., 2022. Temperature-driven developmental modulation of yield response to nitrogen in wheat and maize. *Frontiers in Agronomy.* <https://doi.org/10.3389/fagro.2022.903340>
+15. **Correndo, A.A.**, McArtor, B., Prestholt, A., Hernandez, C., Kyveryga, P., and Ciampitti , I.A., 2022. Interactive Soybean Variable-Rate Seeding Simulator for Farmers. *Agron. J.* 114, 3554-3565, <https://doi.org/10.1002/agj2.21181>
 
-16. **Correndo, A.A.**, Adee, E., Moro Rosso, L.H., Tremblay, N., Vara Prasad, P.V., Du, J., and Ciampitti, I.A., 2022. Footprints of corn nitrogen management on the following soybean crop. *Agron. J.* 1-14. <https://doi.org/10.1002/agj2.21023>
+16. Sadras, V.O., Giordano, N., **Correndo, A.A.**, Cossani, M., Ferreyra, J.M., Caviglia, O.P., Coulter, J.A., Ciampitti , I.A., and Lollato,R.A., 2022. Temperature-driven developmental modulation of yield response to nitrogen in wheat and maize. *Frontiers in Agronomy.* <https://doi.org/10.3389/fagro.2022.903340>
 
-17. **Correndo, A.A.**, Tremblay, N., ...Ciampitti, I.A. et al., 2021. Unraveling uncertainty drivers of the maize yield response to nitrogen: A Bayesian and machine learning approach. *Agr. For. Meteorol.* 311, 108668. <https://doi.org/10.1016/j.agrformet.2021.108668>
+17. **Correndo, A.A.**, Adee, E., Moro Rosso, L.H., Tremblay, N., Vara Prasad, P.V., Du, J., and Ciampitti, I.A., 2022. Footprints of corn nitrogen management on the following soybean crop. *Agron. J.* 1-14. <https://doi.org/10.1002/agj2.21023>
 
-18. **Correndo, A.A.**, Gutierrez-Boem, F.H., Garcia, F.O.,... Salvagiotti, F., 2021. Attainable yield and soil texture as drivers of maize response to nitrogen: a synthesis analysis for Argentina. *Field Crops Res.* 273, 108299. <https://doi.org/10.1016/j.fcr.2021.108299>
+18. **Correndo, A.A.**, Tremblay, N., ...Ciampitti, I.A. et al., 2021. Unraveling uncertainty drivers of the maize yield response to nitrogen: A Bayesian and machine learning approach. *Agr. For. Meteorol.* 311, 108668. <https://doi.org/10.1016/j.agrformet.2021.108668>
 
-19. **Correndo, A.A.**, Fernandez, J., Prasad, V., Ciampitti, I.A., 2021. Do water and nitrogen management practices impact grain quality in maize? *Agronomy* 11(9), 1851. <https://doi.org/10.3390/agronomy11091851>
+19. **Correndo, A.A.**, Gutierrez-Boem, F.H., Garcia, F.O.,... Salvagiotti, F., 2021. Attainable yield and soil texture as drivers of maize response to nitrogen: a synthesis analysis for Argentina. *Field Crops Res.* 273, 108299. <https://doi.org/10.1016/j.fcr.2021.108299>
 
-20. Ciampitti, I.A., de Borja Reis, A.F., Cordova, C., Castellano, M.J., Archontoulis, S., **Correndo, A.A.**, Antunes de Almeida, L.F., Moro Rosso, L.H.,, 202X. Revisiting biological nitrogen fixation dynamics in soybeans. *Front. Plant Sci.* 12, 727021. <https://doi.org/10.3389/fpls.2021.727021>
+20. **Correndo, A.A.**, Fernandez, J., Prasad, V., Ciampitti, I.A., 2021. Do water and nitrogen management practices impact grain quality in maize? *Agronomy* 11(9), 1851. <https://doi.org/10.3390/agronomy11091851>
 
-21. Moro Rosso, L.H., de Borja Reis, A.F., **Correndo, A.A.**, Ciampitti, I.A., 2021. XPolaris: an R-package to retrieve United States soil data at 30-meter resolution. *BMC Res Notes* 14, 327. <https://doi.org/10.1186/s13104-021-05729-y>
+21. Ciampitti, I.A., de Borja Reis, A.F., Cordova, C., Castellano, M.J., Archontoulis, S., **Correndo, A.A.**, Antunes de Almeida, L.F., Moro Rosso, L.H.,, 202X. Revisiting biological nitrogen fixation dynamics in soybeans. *Front. Plant Sci.* 12, 727021. <https://doi.org/10.3389/fpls.2021.727021>
 
-22. **Correndo, A.A.**, Hefley, T., Holzworth, D., Ciampitti, I.A., 2021. Revisiting linear regression to test agreement in continuous predicted-observed datasets. *Agr. Syst.* 192, 103194. <https://doi.org/10.1016/j.agsy.2021.103194>
+22. Moro Rosso, L.H., de Borja Reis, A.F., **Correndo, A.A.**, Ciampitti, I.A., 2021. XPolaris: an R-package to retrieve United States soil data at 30-meter resolution. *BMC Res Notes* 14, 327. <https://doi.org/10.1186/s13104-021-05729-y>
 
-23. **Correndo, A.A.**, Moro Rosso, L.H., Ciampitti, I.A., 2021. Retrieving and processing agro-meteorological from API-client sources using R software. *BMC Res. Notes* 14, 205. <https://doi.org/10.1186/s13104-021-05622-8>
+23. **Correndo, A.A.**, Hefley, T., Holzworth, D., Ciampitti, I.A., 2021. Revisiting linear regression to test agreement in continuous predicted-observed datasets. *Agr. Syst.* 192, 103194. <https://doi.org/10.1016/j.agsy.2021.103194>
 
-24. **Correndo, A.A.**, Rubio, G., Garcia, F.O., Ciampitti, I.A., 2021. Subsoil-potassium depletion accounts for the nutrient budget in high-potassium agricultural soils. *Sci. Rep.* 11, 11597. <https://doi.org/10.1038/s41598-021-90297-1>
+24. **Correndo, A.A.**, Moro Rosso, L.H., Ciampitti, I.A., 2021. Retrieving and processing agro-meteorological from API-client sources using R software. *BMC Res. Notes* 14, 205. <https://doi.org/10.1186/s13104-021-05622-8>
 
-25. **Correndo, A.A.**, Rotundo, J.L., Tremblay, N., et al., 2021. Assessing the uncertainty of maize yield with no nitrogen fertilization. *Field Crops Res.* 260, 107985. <https://doi.org/10.1016/j.fcr.2020.107985>
+25. **Correndo, A.A.**, Rubio, G., Garcia, F.O., Ciampitti, I.A., 2021. Subsoil-potassium depletion accounts for the nutrient budget in high-potassium agricultural soils. *Sci. Rep.* 11, 11597. <https://doi.org/10.1038/s41598-021-90297-1>
 
-26. Appelhans, S.C., Carciochi, W.D., **Correndo, A.A.**, et al. 2021. Predicting soil test phosphorus decrease in non‐P‐fertilized conditions. *Eur. J. Soil Sci.* 2021; 1-- 11. <https://doi.org/10.1111/ejss.12946>
+26. **Correndo, A.A.**, Rotundo, J.L., Tremblay, N., et al., 2021. Assessing the uncertainty of maize yield with no nitrogen fertilization. *Field Crops Res.* 260, 107985. <https://doi.org/10.1016/j.fcr.2020.107985>
 
-27. **Correndo, A.A.**, Salvagiotti, F., García, F.O., Gutiérrez Boem, F.H., 2017. A modification of the arcsine-log calibration curve for analysing soil test value-relative yield relationships. *Crop and Pasture Science* 68 (3): 297-304. <https://doi.org/10.1071/CP16444>
+27. Appelhans, S.C., Carciochi, W.D., **Correndo, A.A.**, et al. 2021. Predicting soil test phosphorus decrease in non‐P‐fertilized conditions. *Eur. J. Soil Sci.* 2021; 1-- 11. <https://doi.org/10.1111/ejss.12946>
 
-28. Barbieri, P.A., Sainz Rozas, H.R. Wyngaard, N., Eyherabide, M., Reussi Calvo, N.I., Salvagotti, F., **Correndo, A.A.**, et al., 2017. Can Edaphic Variables Improve DTPA-Based Zinc Diagnosis in Corn?. *Soil Sci. Soc. Am. J.* 81, 556-563. <https://doi.org/10.2136/sssaj2016.09.0316>
+28. **Correndo, A.A.**, Salvagiotti, F., García, F.O., Gutiérrez Boem, F.H., 2017. A modification of the arcsine-log calibration curve for analysing soil test value-relative yield relationships. *Crop and Pasture Science* 68 (3): 297-304. <https://doi.org/10.1071/CP16444>
 
-29. **Correndo, A.A.**, Boxler, M., García, F.O., 2015. Economic analysis of fertilization management with focus on the long term. *Ci. Suelo* 33(2), 197-212. <http://www.suelos.org.ar/publicaciones/vol_33n2/v33n2a04.pdf>
+29. Barbieri, P.A., Sainz Rozas, H.R. Wyngaard, N., Eyherabide, M., Reussi Calvo, N.I., Salvagotti, F., **Correndo, A.A.**, et al., 2017. Can Edaphic Variables Improve DTPA-Based Zinc Diagnosis in Corn?. *Soil Sci. Soc. Am. J.* 81, 556-563. <https://doi.org/10.2136/sssaj2016.09.0316>
+
+30. **Correndo, A.A.**, Boxler, M., García, F.O., 2015. Economic analysis of fertilization management with focus on the long term. *Ci. Suelo* 33(2), 197-212. <http://www.suelos.org.ar/publicaciones/vol_33n2/v33n2a04.pdf>
 
 # 🎙️Extension
 

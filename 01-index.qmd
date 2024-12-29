@@ -46,5 +46,5 @@ At the [Talks](https://adriancorrendo.github.io/05-talks.html) section you'll fi
 
 ## 📂 CV
 
-Download CV: [{{< fa file-pdf >}}](https://raw.githubusercontent.com/adriancorrendo/adriancorrendo.github.io/main/assets/resources/cv_correndoadrian_dec2024.pdf){#CV}
+Download CV: [{{< fa file-pdf >}}](https://raw.githubusercontent.com/adriancorrendo/adriancorrendo.github.io/main/assets/resources/cv_correndoadrian_2024.pdf){#CV}
 :::::::
