@@ -10,9 +10,9 @@ a:link {
 }
 
 /* visited link */
-a:visited {
+/*a:visited {
   color: #5f0f40;
-}
+}*/
 
 /* mouse over link */
 a:hover {

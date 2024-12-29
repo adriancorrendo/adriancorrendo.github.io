@@ -13,7 +13,7 @@ format:
 
 1.  Abdala, L., Tamagno, S., Ruiz, A., Schwalbert, R.A., **Correndo, A.A.**, Martin, N. 2025. Yield environment changes the ranking of soybean genotypes. *Field Crops Res.* 321, 109661. <https://doi.org/10.1016/j.fcr.2024.109661>
 
-2.  Almeida, Luiz F., **Correndo, A.A.**, Hefley, T., HIntz, G., Vara Prasad, P.V., Litch, M., Casteel, S., Singh, M., Naeve, S., Bais, J., Lindsay, L., Conley, S., Kleinjan, J., Kovacs, P., Ciampitti, I.A.  2025. Assessing the influence of environmental drivers on soybean seed yield and nitrogen fixation estimates and uncertainties in the United States. *European Journal of Agronomy*, 162, 127428. <https://doi.org/10.1016/j.eja.2024.127428>
+2.  Almeida, Luiz F., **Correndo, A.A.**, Hefley, T., HIntz, G., Vara Prasad, P.V., Litch, M., Casteel, S., Singh, M., Naeve, S., Bais, J., Lindsay, L., Conley, S., Kleinjan, J., Kovacs, P., Ciampitti, I.A. 2025. Assessing the influence of environmental drivers on soybean seed yield and nitrogen fixation estimates and uncertainties in the United States. *European Journal of Agronomy*, 162, 127428. <https://doi.org/10.1016/j.eja.2024.127428>
 
 3.  Rodriguez M., Carcedo A., **Correndo A.**, Crespo C., Carciochi W., Sainz Rozas H., Ciampitti I., Barbieri P. 2024. Assessing the nitrogen supply of hairy vetch in a soybean-wheat sequence. *Field Crops Res.*, 316, 109496 - 109496. <https://doi.org/10.1016/j.fcr.2024.109496>
 

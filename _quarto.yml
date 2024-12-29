@@ -2,12 +2,12 @@ project:
   type: website
   output-dir: docs
   resources: 
-    - "assets/resources/CV_Correndo_APR-03-2023.pdf"
+    - "assets/resources/cv_correndoadrian_dec2024.pdf"
 
 website:
-  title: "AdrianCorrendo"
+  title: "Adrian Correndo"
   navbar:
-    background: "#3b374a"
+    background: "#bc4749"
     left:
       - href: 01-index.qmd
         text: Home
@@ -39,7 +39,8 @@ website:
 format:
   html:
     theme: 
-      light: minty
+      light: journal
+      dark: darkly
     css: styles.css
     toc: true
     toc-title: ""
