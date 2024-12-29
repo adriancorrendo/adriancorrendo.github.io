@@ -20,7 +20,7 @@ Open-access software promoting the reproducibility of data processing and analys
 
 Web interfaces designed to facilitate the implementation of my packages, and to translate my research into decision-support tools.
 
-::: columns
+::::: columns
 ::: {.column width="50%"}
 #### [Soiltestcorr](https://ciampittilab.shinyapps.io/soiltestcorr/)
 
@@ -44,7 +44,7 @@ Web interfaces designed to facilitate the implementation of my packages, and to 
 
 [![](images/paste-2E73617F.png){fig-align="left" width="300" height="200"}](https://ciampittilab.shinyapps.io/DONMaiz/)
 :::
-:::
+:::::
 
 ## [Harvard Dataverse](https://dataverse.harvard.edu/dataverse/adriancorrendo) ![](assets/images/harvard_dataverse_logo.png){width="72" height="28"}
 

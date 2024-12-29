@@ -15,6 +15,6 @@ Ontario Agricultural College \| University of Guelph \| 50 Stone Rd E, Guelph, O
 # Networks
 
 |  |  |  |
-|--------------------|----------------------------|-------------------------|
+|----|----|----|
 | [![](assets/images/X_logo.png.webp){fig-align="center" width="60"}](http://twitter.com/aacorrendo) | [![](assets/images/linkedin-icon.png){fig-align="center" width="60"}](https://www.linkedin.com/in/adriancorrendo/) | [![](assets/images/github-brands.svg){fig-align="center" width="60" height="60"}](http://github.com/adriancorrendo) |
 | [![](assets/images/orcid.png){fig-align="center" width="60"}](https://orcid.org/0000-0002-4172-289X) | [![](assets/images/768px-Google_Scholar_logo.png){fig-align="center" width="60"}](https://scholar.google.com/citations?user=8_ZxORIAAAAJ&hl) | [![](assets/images/ResearchGate_icon.png){fig-align="center" width="60"}](https://www.researchgate.net/profile/Adrian-Correndo-2) |

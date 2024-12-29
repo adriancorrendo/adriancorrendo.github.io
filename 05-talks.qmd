@@ -16,9 +16,9 @@ Let's take a look... 🎥
 
 ::: {align="center"}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aRph0jWv3Ek?si=7LMZHQFoBQEGu9-t&amp;start=7043" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen>
+
 </iframe>
 :::
-
 
 ## 2023 \| Ciencia de los datos para decision en manejo de nutrientes (Spanish)
 
